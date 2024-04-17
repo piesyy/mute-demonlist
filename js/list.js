@@ -3,39 +3,29 @@ const d = {
 	/*=================================================================================*/
 		{
                        "vids": [
-               {
-					"user": "clover",
-					"link": "https://www.youtube.com/watch?v=3uwT6-qFELY",
-					"percent": 100,
-					"hz": ""
-				},
+
                        ],
                        "name": "Oblivion",
-                       "author": "benji8080",
+                       "author": "clover",
                        "more": "none",
                        "id": 1,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/f-empfLWbIk",
+                       "verificationVid": "https://www.youtube.com/watch?v=3uwT6-qFELY",
                        "key": 0
                 },
         /*=================================================================================*/
         {
                        "vids": [
-               {
-					"user": "piesy",
-					"link": "https://www.youtube.com/watch?v=DqvjjIRlSus",
-					"percent": 100,
-					"hz": ""
-				},
+
                        ],
                        "name": "Critical Heat",
-                       "author": "Zeniux",
+                       "author": "piesy",
                        "more": "none",
                        "id": 1,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/vQS-VWaucXM",
+                       "verificationVid": "https://www.youtube.com/watch?v=DqvjjIRlSus",
                        "key": 1
                 },
         /*=================================================================================*/
@@ -43,8 +33,8 @@ const d = {
                        "vids": [
               
                        ],
-                       "name": "Cybernetic Crescent",
-                       "author": "piesy",
+                       "name": "Zodiac",
+                       "author": "Bianox",
                        "more": "none",
                        "id": 39424151,
                        "pass": "who cares",
