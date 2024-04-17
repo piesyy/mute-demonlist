@@ -149,19 +149,19 @@ const d = {
 	{
                        "vids": [
               	{
-				       "user": "luna",
-				       "link": "https://youtu.be/BrEFZtgkT20",
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=AwIbXBVuaZE",
 				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
-                       "name": "Catalyze",
+                       "name": "Cognition",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/FbklH71ci3E",
+                       "id": 57600307,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=NdMosc16d4w",
                        "key": 10
                 },
         /*=================================================================================*/
@@ -169,65 +169,65 @@ const d = {
                        "vids": [
               
                        ],
-                       "name": "Cadrega City",
-                       "author": "piesy",
+                       "name": "ATOMIC CANNON Mk II",
+                       "author": "Vink",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/4mQiftM0FmU",
+                       "id": 91180835,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=elZcquhwJkg",
                        "key": 11
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "Freddy3",
+				       "link": "https://www.youtube.com/watch?v=ymu2r1wb6fY",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
-                       "name": "Omicron",
+                       "name": "Shardscapes",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/21_zuwjNww4",
+                       "id": 79997992,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=KvA4AtTTQ1o",
                        "key": 12
                 },
         /*=================================================================================*/
 	{
                        "vids": [
               {
-				       "user": "luna",
-				       "link": "https://www.youtube.com/watch?v=quCyfX7QvKM",
-				       "percent": 76,
+				       "user": "Freddy3",
+				       "link": "https://youtu.be/KTHK0YZCN3c?si=7YSwnUxU5NCLiODX",
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
-                       "name": "Delta Interface",
+                       "name": "Congregation",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://www.youtube.com/watch?v=FbklH71ci3E",
+                       "id": 68668045,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=f1zQNc1Qjv8",
                        "key": 13
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "luna",
-				       "link": "https://youtu.be/L87Tev_CBBk",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "Artificial Ascent",
+                       "name": "Kappa",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/P81cn_3wIRc",
+                       "id": 59800588,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.twitch.tv/videos/1802044087",
                        "key": 14
                 },
         /*=================================================================================*/
