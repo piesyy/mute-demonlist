@@ -233,120 +233,82 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "luna",
-				       "link": "https://youtu.be/P3--0rwwEik",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "Auditory Breaker",
+                       "name": "Bloodlust",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/6efY1prdk28",
+                       "id": 42584142,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=xw2gNmM1VgQ",
                        "key": 15
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "luna",
-				       "link": "https://www.youtube.com/watch?v=vcH_SbTVKMg",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "Glowy",
-                       "author": "piesy",
+                       "name": "Fog",
+                       "author": "Vink",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/7jIdgDBm0DM",
+                       "id": 90853661,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=C0ENmsMBr4Q",
                        "key": 16
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              	{
-				       "user": "Vones",
-				       "link": "https://youtu.be/ee9WvF_HUDs",
-				       "percent": 100,
-				       "hz": ""
-			       },
-		{
-				       "user": "Koozoo2000",
-				       "link": "https://youtu.be/IIYDlVXcaVI",
-				       "percent": 100,
-				       "hz": ""
-			       },
-		{
-				       "user": "Vink",
-				       "link": "https://youtu.be/d1sDfKcWAA4",
-				       "percent": 82,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "Rate Demon",
-                       "author": "piesy",
+                       "name": "Terminux",
+                       "author": "plimbus",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/RZWhnT-0Wl8",
+                       "id": 76865589,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=6L3i1vrZ4F8",
                        "key": 17
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              	{
-				       "user": "Koozoo2000",
-				       "link": "https://youtu.be/7zqJQJvVeY4",
-				       "percent": 100,
-				       "hz": ""
-			       },
-		{
-				       "user": "luna",
-				       "link": "https://www.youtube.com/watch?v=5J2FDWRJx7M",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "Ziroikabi",
-                       "author": "piesy",
+                       "name": "no jokes",
+                       "author": "Vink",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/WYDV_31YsL4",
+                       "id": 84507862,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=tGAHgpiwPpo",
                        "key": 18
                 },
         /*=================================================================================*/
 	{
                        "vids": [
               	{
-				       "user": "JT",
-				       "link": "https://youtu.be/bvObypx7roQ",
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=-Eyr6HU8XEQ",
 				       "percent": 100,
 				       "hz": ""
 			       },
 		{
-				       "user": "luna",
-				       "link": "https://youtu.be/Y1QqpKbwAAA",
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=WzX6Of50TgI",
 				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
-                       "name": "Surge of the Shield",
-                       "author": "piesy",
+                       "name": "CITRA",
+                       "author": "Vink",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/hyPWWN-Kf9U",
+                       "id": 80966089,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Rok2B0nsWlI",
                        "key": 19
                 },
         /*=================================================================================*/
