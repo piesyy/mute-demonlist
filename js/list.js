@@ -613,6 +613,82 @@ const d = {
                        "key": 34
                 },
         /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Shutdown",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 78164953,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=LEm__t53OPY",
+                       "key": 35
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "of ambrosia",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 81583127,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/M4TZdTLN3eM?si=GdBD7GEsxE92RIpb",
+                       "key": 36
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=fsw9-SBu5o0",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Mirrored Calamity",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 59157630,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=cQ86tOUv75Q",
+                       "key": 37
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "RANDOM ACCESS MEMORY",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 81372683,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=b5wj9CnGkTk",
+                       "key": 38
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Omega",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 59706883,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/y_UN8LclIDo?si=r0jANX7aSiQDvBmV",
+                       "key": 39
+                },
+        /*=================================================================================*/
+
 
 	],
 	"version": [
