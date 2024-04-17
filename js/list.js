@@ -394,58 +394,43 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "luna",
-				       "link": "https://youtu.be/RdV12EZGX3w",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "Disentombed",
+                       "name": "Sigma",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/rwYTV-v4Tp8",
+                       "id": 51657783,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Fqx7Wn_WzN4?si=xMI5WXXl3wAZ_1yI",
                        "key": 25
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              	{
-				       "user": "Koozoo2000",
-				       "link": "https://youtu.be/c83Wf0qcxGQ",
-				       "percent": 100,
-				       "hz": ""
-			       },
+\
                        ],
-                       "name": "Athanatos",
+                       "name": "Ploink",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/cYBNjGclB8c",
+                       "id": 96590328,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=SS0qsZ2Bk5k",
                        "key": 26
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "luna",
-				       "link": "https://youtu.be/25v6CyYRoEQ",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "SPEEDRUN",
+                       "name": "IthacropoliX",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/iwYHoPGmnOE",
+                       "id": 80293947,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/ydnc-JjLZw8?si=dC1g458qP93EwSCH",
                        "key": 27
                 },
         /*=================================================================================*/
@@ -453,32 +438,32 @@ const d = {
                        "vids": [
               
                        ],
-                       "name": "Ithacropolis",
+                       "name": "Ouroboros",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/5lcbr2pXQLI",
+                       "id": 56703691,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=zrqZmPbsxVA",
                        "key": 28
                 },
         /*=================================================================================*/
 	{
                        "vids": [
               {
-				       "user": "luna",
-				       "link": "https://youtu.be/H2RBovHqtYo",
-				       "percent": 100,
+				       "user": "ashley",
+				       "link": "https://www.youtube.com/watch?v=IpPrVi0ppqk",
+				       "percent": 75,
 				       "hz": ""
 			       },
                        ],
-                       "name": "Fusion Z",
-                       "author": "piesy",
+                       "name": "kowareta",
+                       "author": "Vink",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/WXPcFUIh6dE",
+                       "id": 46763581,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=DF9v0zxs5FQ",
                        "key": 29
                 },
         /*=================================================================================*/
