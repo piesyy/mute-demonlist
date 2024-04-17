@@ -8,7 +8,7 @@ const d = {
                        "name": "Oblivion",
                        "author": "clover",
                        "more": "none",
-                       "id": 1,
+                       "id": 71025973,
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=3uwT6-qFELY",
@@ -22,7 +22,7 @@ const d = {
                        "name": "Critical Heat",
                        "author": "piesy",
                        "more": "none",
-                       "id": 1,
+                       "id": 88442157,
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=DqvjjIRlSus",
@@ -36,8 +36,8 @@ const d = {
                        "name": "Zodiac",
                        "author": "piesy",
                        "more": "none",
-                       "id": 1,
-                       "pass": "1",
+                       "id": 52374843,
+                       "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Pl6SfHXDh9A",
                        "key": 2
@@ -47,13 +47,13 @@ const d = {
                        "vids": [
               
                        ],
-                       "name": "Sonic Wave Rebirth",
+                       "name": "Kenos",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/W6WGa9cF0x4",
+                       "id": 58673581,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=zBhDazSr9gw",
                        "key": 3
                 },
         /*=================================================================================*/
@@ -61,13 +61,13 @@ const d = {
                        "vids": [
               
                        ],
-                       "name": "Sonic Wave",
-                       "author": "piesy",
+                       "name": "Keres",
+                       "author": "plimbus",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/cVby99wrFZA",
+                       "id": 74391640,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=bEqDw8XC0js",
                        "key": 4
                 },
         /*=================================================================================*/
@@ -75,107 +75,74 @@ const d = {
                        "vids": [
               
                        ],
-                       "name": "Yatagarasu",
+                       "name": "Crackhead Circles",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/sQOpvueWoDA",
+                       "id": 95524621,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=ohaUYFO5FDY",
                        "key": 5
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-  {
-					"user": "luna",
-					"link": "https://youtu.be/51lOAql1Mks",
-					"percent": 100,
-					"hz": ""
-				},
+			       
                        ],
-                       "name": "Titan Complex",
-                       "author": "piesy",
+                       "name": "Lotus Flower",
+                       "author": "Freddy3",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/OmmJitPEd2A",
+                       "id": 75813671,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=HFUV_c0HHtw",
                        "key": 6
                 },
         /*=================================================================================*/
 	{
                        "vids": [
               {
-				       "user": "Vones",
-				       "link": "https://youtu.be/ZESqQ8OdQDo",
-				       "percent": 76,
-				       "hz": ""
-			       },
-		{
-				       "user": "luna",
-				       "link": "https://youtu.be/Fjh12XGhem4",
-				       "percent": 70,
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=yPFy0g2mx9c",
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
-                       "name": "Erebus",
-                       "author": "piesy",
+                       "name": "Thinking Space",
+                       "author": "Anwar Razlan",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/Bc43mo8Y1XE",
+                       "id": 54953085,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/2LV7MJMoVBU?si=9R_It9G2K9Y_zSmk",
                        "key": 7
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              	{
-				       "user": "luna",
-				       "link": "https://youtu.be/LA2nlO3nd_4",
-				       "percent": 100,
-				       "hz": ""
-			       },
-		{
-				       "user": "Koozoo2000",
-				       "link": "https://youtu.be/Q_AXunN3xcI",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "ZAPHKIEL",
-                       "author": "piesy",
+                       "name": "Crimson Planet",
+                       "author": "Koozoo2000",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/b6Iwuhj4Fz0",
+                       "id": 45866767,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=GSwQ_rV_T6s",
                        "key": 8
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              	{
-				       "user": "Vones",
-				       "link": "https://youtu.be/vhPvX1MQTTY",
-				       "percent": 100,
-				       "hz": ""
-			       },
-		{
-				       "user": "luna",
-				       "link": "https://youtu.be/Hn87YJ7IAG8",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "Digital Descent",
+                       "name": "Renevant",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/EB7cMXqgxtY",
+                       "id": 58161496,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=u9reFn4E4uQ",
                        "key": 9
                 },
         /*=================================================================================*/
