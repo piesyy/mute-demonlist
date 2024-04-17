@@ -31,7 +31,18 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "clover",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 70,
+				       "hz": ""
+			       },
+		              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 45,
+				       "hz": ""
+			       },
                        ],
                        "name": "Zodiac",
                        "author": "piesy",
@@ -233,7 +244,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-
+              {
+				       "user": "ashley",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 35,
+				       "hz": ""
+			       },
                        ],
                        "name": "Bloodlust",
                        "author": "piesy",
@@ -521,7 +537,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-
+              {
+				       "user": "ashley",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 35,
+				       "hz": ""
+			       },
                        ],
                        "name": "Plasma Pulse Finale",
                        "author": "piesy",
