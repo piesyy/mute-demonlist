@@ -470,108 +470,103 @@ const d = {
 	{
                        "vids": [
               {
-				       "user": "shibi",
-				       "link": "https://youtu.be/Zga_wbIHqIU",
-				       "percent": 90,
+				       "user": "ashley",
+				       "link": "https://www.youtube.com/watch?v=a5__P4XhBzY",
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
-                       "name": "Epsilon",
+                       "name": "Visible Ray ",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/LdxiBJMtZ18",
+                       "id": 48267315,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=-zShTTVLXII",
                        "key": 30
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "Koozoo2000",
-				       "link": "https://youtu.be/I35R2uu_DhE",
-				       "percent": 100,
-				       "hz": ""
-			       },
-		{
-				       "user": "shibi",
-				       "link": "https://youtu.be/tSb0ivANxzw",
-				       "percent": 100,
-				       "hz": ""
-			       },
-		{
-				       "user": "Vink",
-				       "link": "https://youtu.be/OlEm9AzoEtI",
-				       "percent": 100,
-				       "hz": ""
-			       },
-			       {
-				       "user": "luna",
-				       "link": "https://youtu.be/KI72VgVOqrE",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "Bloodbath",
+                       "name": "The Yandere",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/v1uxFgvqwgY",
+                       "id": 54615662,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=cyNlAH6ANWE",
                        "key": 31
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              
+              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=kquGPLR6dsE",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
-                       "name": "Sakupen Hell",
+                       "name": "Arctic Lights",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/JtR-PFrP6Ps",
+                       "id": 52919433,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=vQS-VWaucXM",
                        "key": 32
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "luna",
-				       "link": "https://youtu.be/j6U1whaVETM",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
-                       "name": "Atmosphere",
+                       "name": "Plasma Pulse Finale",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
+                       "id": 38655495,
                        "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/-0_YVZwebjo",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=BfjpvKXizCI",
                        "key": 33
                 },
         /*=================================================================================*/
 	{
                        "vids": [
               {
-				       "user": "luna",
-				       "link": "https://www.youtube.com/watch?v=cc7qstGtgUw",
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=hI_8EHTTPO0",
+				       "percent": 100,
+				       "hz": ""
+			       },
+			       {
+				       "user": "Koozoo2000",
+				       "link": "https://www.youtube.com/watch?v=JWYf32A4Pbc",
+				       "percent": 100,
+				       "hz": ""
+			       },
+			       {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=sYBlzFyZiBU",
+				       "percent": 100,
+				       "hz": ""
+			       },
+			       {
+				       "user": "clover",
+				       "link": "https://www.youtube.com/watch?v=8MKCOtKVAD0",
 				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
-                       "name": "Azure Fiesta",
+                       "name": "Frozen Cave",
                        "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/RpV5-niF6z0",
+                       "id": 68908396,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=zxMhYCfzQN0",
                        "key": 34
                 },
         /*=================================================================================*/
