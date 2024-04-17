@@ -15,21 +15,26 @@ const d = {
                        "more": "none",
                        "id": 1,
                        "pass": "",
-                       "percentToQualify": 100,
+                       "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/f-empfLWbIk",
                        "key": 0
                 },
         /*=================================================================================*/
         {
                        "vids": [
-              
+               {
+					"user": "piesy",
+					"link": "https://www.youtube.com/watch?v=DqvjjIRlSus",
+					"percent": 100,
+					"hz": ""
+				},
                        ],
-                       "name": "Arctic Lights",
-                       "author": "piesy",
+                       "name": "Critical Heat",
+                       "author": "Zeniux",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
+                       "id": 1,
+                       "pass": "",
+                       "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/vQS-VWaucXM",
                        "key": 1
                 },
