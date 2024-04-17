@@ -34,12 +34,12 @@ const d = {
               
                        ],
                        "name": "Zodiac",
-                       "author": "Bianox",
+                       "author": "piesy",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "who cares",
-                       "percentToQualify": 50,
-                       "verificationVid": "https://youtu.be/_A1vnKOmVMM",
+                       "id": 1,
+                       "pass": "1",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Pl6SfHXDh9A",
                        "key": 2
                 },
         /*=================================================================================*/
