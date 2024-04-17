@@ -4,30 +4,18 @@ const d = {
 		{
                        "vids": [
                {
-					"user": "Dhar Mann",
-					"link": "https://youtu.be/QHq_S-ihf7M",
-					"percent": 100,
-					"hz": ""
-				},
-			       {
-					"user": "LivingBobby",
-					"link": "https://youtu.be/x6o2bqsTfZs",
-					"percent": 100,
-					"hz": ""
-				},
- {
-					"user": "AeonAir",
-					"link": "https://youtu.be/Nr9E-r57NRU",
+					"user": "clover",
+					"link": "https://www.youtube.com/watch?v=3uwT6-qFELY",
 					"percent": 100,
 					"hz": ""
 				},
                        ],
-                       "name": "Be a Good Person",
-                       "author": "Mr Beast Philanthropy",
+                       "name": "Oblivion",
+                       "author": "benji8080",
                        "more": "none",
-                       "id": 39424151,
-                       "pass": "SO NICE",
-                       "percentToQualify": 50,
+                       "id": 1,
+                       "pass": "",
+                       "percentToQualify": 100,
                        "verificationVid": "https://youtu.be/f-empfLWbIk",
                        "key": 0
                 },
