@@ -1216,7 +1216,12 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
+              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 8,
+				       "hz": ""
+			       },
                        ],
                        "name": "super probably level",
                        "author": "Vink",
@@ -1506,6 +1511,92 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Q_AXunN3xcI",
                        "key": 79
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "ABEL",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 86595871,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/NZp6pInMLI4?si=SW0S7N-2_mQfy9Z2",
+                       "key": 80
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=setLrwJYAhI",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/4Wk1orzbWcU?si=Ye0HwmkuVS0IBj74",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Omicron",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 63560498,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/21_zuwjNww4?si=ttog3stqY7o9_E2j",
+                       "key": 81
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=setLrwJYAhI",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Delta Interface",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 45094581,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/lTMyzxnSBjE?si=tQBBd-RfU9lLgMy7",
+                       "key": 82
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "vaenstep",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 79242390,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+                       "key": 83
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Step To Hell",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 34489220,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/RpwimQJzrUI?si=4Rrd3zMAd0DUKayD",
+                       "key": 84
                 },
         /*=================================================================================*/
 
