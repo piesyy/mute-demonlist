@@ -1075,7 +1075,120 @@ const d = {
                        "key": 59
                 },
         /*=================================================================================*/
+		{
+			"vids": [
 
+                       ],
+                       "name": "The Reaper",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 68894921,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Fl6D23SE948",
+                       "key": 60
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=I7C8UGlkvGY",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "Freddy3",
+				       "link": "https://youtu.be/gwt0ws472ps?si=-_S-nlauNnqS1oFF",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Sunset Sandstorm",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 55547703,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/LtfJwHQiSfY?si=glArgV83kiGamWRu",
+                       "key": 61
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=CpN90ymRnuw",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "ashley",
+				       "link": "https://youtu.be/l69WrNBMiY0?si=1IbZVAJakEUqLIUA",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 54,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Dark Flare",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 48942548,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/jK077amnDOU?si=hb1Eot3oqM6wAIP2",
+                       "key": 62
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "clover",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "Vones",
+				       "link": "https://www.youtube.com/watch?v=eWhyrT64CVA",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Chromatic Haze",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 62869408,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/ahPPWpkKEVY?si=Q06DhvKS40NzWyBf",
+                       "key": 63
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "ashley",
+				       "link": "https://youtu.be/7ErrOrYo6TU?si=OP6zvTcC0CnrYKVJ",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Celestial Force",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 47237400,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/pONPVFdDwR0?si=P8O1y9n2-Nize5Lq",
+                       "key": 64
+                },
+        /*=================================================================================*/
 
 
 	],
