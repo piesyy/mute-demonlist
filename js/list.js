@@ -1616,8 +1616,8 @@ const d = {
 		{
 			"vids": [
 	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "user": "Freddy3",
+				       "link": "https://youtu.be/rnNl7ETNn3w?si=_MGwfMztGElPjh7B",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -1791,6 +1791,92 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/P81cn_3wIRc?si=ima5zQobnO2JrHeC",
                        "key": 94
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/rdNBuBUSTLg?si=u6yheuiaB6NCznAD",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Night Rider",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 78051190,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Hb8_FdJgSoM?si=KIky6lU1JwGJkgdH",
+                       "key": 95
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Ouroboros Startpos 2",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 94410319,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/xuL7BLELkQo?si=SSU_WiOShAUN0kc2",
+                       "key": 96
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/TrIIeeB23no?si=1O0GoC7fRsOqv2V5",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Freddy3",
+				       "link": "https://youtu.be/fH5mcTBTR5k?si=uqqvQZnooZVGuWcv",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Quantum Processing",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 38235367,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Dn7Q3m9Z7MU?si=bgX5Aquf8TONfu1H",
+                       "key": 97
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "lodin da fish washer",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 72164189,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/0nfsZcf9Pe4?si=OsAPPJTTvjvxlFuS",
+                       "key": 98
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "BBBBBBBBBBBBBBBBBBBB",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 47446042,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/js6meyhUVbw?si=cFdpqbmmwDgHIo-K&t=2529",
+                       "key": 99
                 },
         /*=================================================================================*/
 
