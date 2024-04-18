@@ -971,19 +971,19 @@ const d = {
 		{
 			"vids": [
               {
-				       "user": "Freddy3",
-				       "link": "https://www.youtube.com/watch?v=j6MSVOBpGFQ",
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=heb37Xn-sR8",
 				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
                        "name": "xo",
-                       "author": "Vink",
+                       "author": "Freddy3",
                        "more": "none",
                        "id": 58825144,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=heb37Xn-sR8",
+                       "verificationVid": "https://www.youtube.com/watch?v=j6MSVOBpGFQ",
                        "key": 55
                 },
         /*=================================================================================*/
