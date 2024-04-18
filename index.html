@@ -120,7 +120,7 @@
     <script name="userpoint" type="text/javascript">
     function getPoint(rank) {
         if (rank > 950) {
-            return roundNumber(15, 3);
+            return roundNumber(0, 3);
         } else {
             return roundNumber((950 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
         }
