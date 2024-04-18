@@ -895,7 +895,8 @@ const d = {
                        "verificationVid": "https://youtu.be/ydbcCl2ZQ44?si=U5jxvwWMpLqGQaqT",
                        "key": 50
                 },
-        /*=================================================================================*/	{
+        /*=================================================================================*/	
+		{
                        "vids": [
               {
 				       "user": "piesy",
@@ -913,7 +914,8 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=sV5DCcDundg",
                        "key": 51
                 },
-        /*=================================================================================*/	{
+        /*=================================================================================*/	
+		{
                        "vids": [
               {
 				       "user": "plimbus",
@@ -937,7 +939,8 @@ const d = {
                        "verificationVid": "https://youtu.be/sQOpvueWoDA?si=i87wwu8_AcxNTnN7",
                        "key": 52
                 },
-        /*=================================================================================*/	{
+        /*=================================================================================*/	
+		{
                        "vids": [
 
                        ],
@@ -950,8 +953,9 @@ const d = {
                        "verificationVid": "https://youtu.be/TrIIeeB23no?si=DSeJMrBdr976L0I4",
                        "key": 53
                 },
-        /*=================================================================================*/	{
-                       "vids": [
+        /*=================================================================================*/	
+		{
+			"vids": [
 
                        ],
                        "name": "Cersia Difficult",
@@ -964,7 +968,113 @@ const d = {
                        "key": 54
                 },
         /*=================================================================================*/
-
+		{
+			"vids": [
+              {
+				       "user": "Freddy3",
+				       "link": "https://www.youtube.com/watch?v=j6MSVOBpGFQ",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "xo",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 58825144,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=heb37Xn-sR8",
+                       "key": 55
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/IQy4Xvv9x18?si=37Lun6XnkXBQv3yv",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=setLrwJYAhI",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Generic Wave",
+                       "author": "Anwar Razlan",
+                       "more": "none",
+                       "id": 49576382,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=7-NyopAh3p0",
+                       "key": 56
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/OmmJitPEd2A?si=Q_10cMbmv70Hv5aA",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Titan Complex",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 44022701,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=51lOAql1Mks",
+                       "key": 57
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=3jIXHrKh_AQ",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=3H5A4ZLs3Pw",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "rosedynamix",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 84140347,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=fZ_jECOpcY0",
+                       "key": 58
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/setLrwJYAhI?si=VT9fFPGqRX6FWfZG",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Erebus",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 31462941,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Bc43mo8Y1XE?si=Y3qDhgk5PdymKNk-",
+                       "key": 59
+                },
+        /*=================================================================================*/
 
 
 
