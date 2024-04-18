@@ -1001,6 +1001,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 92,
+				       "hz": ""
+			       },
                        ],
                        "name": "Generic Wave",
                        "author": "Anwar Razlan",
@@ -1189,7 +1195,97 @@ const d = {
                        "key": 64
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=L8U2kdjIaNc",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Devil Vortex",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 32969607,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=ZuCIwjotIzI",
+                       "key": 65
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
 
+                       ],
+                       "name": "super probably level",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 51584312,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=mnXjXuQUGvk",
+                       "key": 66
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "Vones",
+				       "link": "https://www.youtube.com/watch?v=nR07ZlP52ro",
+				       "percent": 55,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "WOW",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 49291867,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=GEja6e_Nahc",
+                       "key": 67
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Framework",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 82748921,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Kx5WIutkLFI",
+                       "key": 68
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=BrEFZtgkT20",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Catalyze",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 50333567,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/FbklH71ci3E?si=ssZatHeT019QWtzp",
+                       "key": 69
+                },
+        /*=================================================================================*/
 
 	],
 	"version": [
