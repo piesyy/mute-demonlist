@@ -631,7 +631,7 @@ const d = {
                        "vids": [
 
                        ],
-                       "name": "of ambrosia",
+                       "name": "of Ambrosia",
                        "author": "Vink",
                        "more": "none",
                        "id": 81583127,
