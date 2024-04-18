@@ -1599,6 +1599,120 @@ const d = {
                        "key": 84
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Killbot",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 38754426,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/kG7Cn6mJ_rI?si=iFvTBboeEBpxdkps",
+                       "key": 85
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/UtozN3vfw_s?si=C_Ss3SNyvNxhfxQp",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Fabrication",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 33983930,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/fPCFl3-JtQc?si=HM5X52lc4SSHYd8p",
+                       "key": 86
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Future Chaos",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 81435156,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=eflK9j1v96U",
+                       "key": 87
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=M-GheS6ZvH0",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Freddy3",
+				       "link": "https://www.youtube.com/watch?v=PVx6KF2c1M8",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=TrIIeeB23no",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=XU8YnskebBI",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vones",
+				       "link": "https://www.youtube.com/watch?v=c3NnGCZetl4",
+				       "percent": 76,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Black Blizzard",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 34057654,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=A40PomVlK2c",
+                       "key": 88
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=fiFTqj7QCYk",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Aesthetic",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 60020026,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/js6meyhUVbw?si=U958Z8OE61IKy_6f",
+                       "key": 89
+                },
+        /*=================================================================================*/
 
 	],
 	"version": [
