@@ -119,7 +119,10 @@
     </script>
     <script name="userpoint" type="text/javascript">
     function getPoint(rank) {
-    return roundNumber((200 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
+          if (rank > 200) {
+            return roundNumber(155, 3);
+        } else {
+                return roundNumber((200 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
         }
     }
     function roundNumber(num, scale) {
