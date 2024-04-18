@@ -866,6 +866,88 @@ const d = {
                        "key": 49
                 },
         /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Shmarley Ville",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 81535535,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/ydbcCl2ZQ44?si=U5jxvwWMpLqGQaqT",
+                       "key": 50
+                },
+        /*=================================================================================*/	{
+                       "vids": [
+              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/ahj_rv2q7Kc?si=tG2J-C00XDn_9AGn",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "GONER",
+                       "author": "Vones",
+                       "more": "none",
+                       "id": 77310650,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=sV5DCcDundg",
+                       "key": 51
+                },
+        /*=================================================================================*/	{
+                       "vids": [
+              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=1JKgR9oMKHE",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "clover",
+				       "link": "https://www.youtube.com/watch?v=B-BCEYxgGKA",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Yatagarasu",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 28220417,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/sQOpvueWoDA?si=i87wwu8_AcxNTnN7",
+                       "key": 52
+                },
+        /*=================================================================================*/	{
+                       "vids": [
+
+                       ],
+                       "name": "Edge of the Blade",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 61366470,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/TrIIeeB23no?si=DSeJMrBdr976L0I4",
+                       "key": 53
+                },
+        /*=================================================================================*/	{
+                       "vids": [
+
+                       ],
+                       "name": "Cersia Difficult",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 74840882,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/lpLpZiaVuuw?si=UXY9whsfyJ29NCh-",
+                       "key": 54
+                },
+        /*=================================================================================*/
 
 
 
