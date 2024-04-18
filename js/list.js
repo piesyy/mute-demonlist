@@ -3,7 +3,12 @@ const d = {
 	/*=================================================================================*/
 		{
                        "vids": [
-
+              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 53,
+				       "hz": ""
+			       },
                        ],
                        "name": "Oblivion",
                        "author": "clover",
@@ -17,7 +22,12 @@ const d = {
         /*=================================================================================*/
         {
                        "vids": [
-
+              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 53,
+				       "hz": ""
+			       },
                        ],
                        "name": "Critical Heat",
                        "author": "piesy",
@@ -563,6 +573,12 @@ const d = {
 				       "user": "ashley",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
 				       "percent": 35,
+				       "hz": ""
+			       },
+              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 76,
 				       "hz": ""
 			       },
                        ],
