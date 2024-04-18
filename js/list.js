@@ -1727,6 +1727,73 @@ const d = {
                        "key": 90
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Polygonal Paradox",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 81041659,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/52_T9SSZc3w?si=EHQiPNgtxtOfl3J1",
+                       "key": 91
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Mind Control",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 77487419,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 92
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "SnowFall Fiesta",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 79023478,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/js6meyhUVbw?si=DkL_xRYObPyoc6a8",
+                       "key": 93
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/L87Tev_CBBk?si=fg8B5uRWOzxSUqs6",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Artificial Ascent",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 27122654,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/P81cn_3wIRc?si=ima5zQobnO2JrHeC",
+                       "key": 94
+                },
+        /*=================================================================================*/
+
 
 	],
 	"version": [
