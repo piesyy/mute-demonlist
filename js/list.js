@@ -1326,7 +1326,12 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
+              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 69,
+				       "hz": ""
+			       },
                        ],
                        "name": "Photovoltaic II",
                        "author": "plimbus",
