@@ -1371,6 +1371,137 @@ const d = {
                        "key": 74
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Friday Vortex",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 69871779,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=gZ55dr5k9yA",
+                       "key": 75
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/EB7cMXqgxtY?si=S_muusCRxs1MPMEp",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/Hn87YJ7IAG8?si=HoZAdDA5BmHqQxIg",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "Freddy3",
+				       "link": "https://youtu.be/N7VCcJ-o3-Y?si=U6X6-QCmwL2-row-",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/1VrTnkNdj28?si=HiwIpSv1-Qsn7LJf",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/Q9HIPtrqLF0?si=zG8YVKZA88IWAuSy",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Digital Descent",
+                       "author": "Vones",
+                       "more": "none",
+                       "id": 37456092,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/vhPvX1MQTTY?si=xi4C5U1dvLEreqvE",
+                       "key": 76
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/yO2B3q_jCJA?si=2nXF7y-Np42mZFVR",
+				       "percent": 44,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Stalemate Redux",
+                       "author": "clover",
+                       "more": "none",
+                       "id": 37398911,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=zzYw37xn8ZY",
+                       "key": 77
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Cadrega City",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 37255449,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/4mQiftM0FmU?si=u_1wFACpsKRSK6ze",
+                       "key": 78
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=b6Iwuhj4Fz0",
+				       "percent": 100,
+				       "hz": ""
+			       },
+		              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=LA2nlO3nd_4",
+				       "percent": 100,
+				       "hz": ""
+			       },
+		              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/2n-pou_8xk0?si=_oo3LeIN0pxwLMl3",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "ZAPHKIEL",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 36329434,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Q_AXunN3xcI",
+                       "key": 79
+                },
+        /*=================================================================================*/
 
 	],
 	"version": [
