@@ -780,6 +780,93 @@ const d = {
                        "key": 44
                 },
         /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Loochiverse",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 81373023,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/rWtc8DqQbe4?si=0aPwwJ1GTNk2rFBB",
+                       "key": 45
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "LUMINA",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 89488413,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Yb2g83OEn5A?si=CHQuYKF_2Abe6ZCy",
+                       "key": 46
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "Anwar Razlan",
+				       "link": "https://www.youtube.com/watch?v=TtBxftUTsWI",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Sonic Wave Rebirth",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 68688849,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/W6WGa9cF0x4?si=-OUy3ID3g2Sliull",
+                       "key": 47
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "Anwar Razlan",
+				       "link": "https://youtu.be/1zKbkW1ZVe8?si=xjJ8BUC5z8RlFkhG",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/setLrwJYAhI?si=VyW5HyKuk7MnxJxW",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Sonic Wave",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 26681070,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/cVby99wrFZA?si=itv1Kmitc-1GrkT-",
+                       "key": 48
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Infinite Iniquity",
+                       "author": "ashley",
+                       "more": "none",
+                       "id": 59331091,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/hpYUUTX9mtY?si=UIssG1teIPEh_e6G",
+                       "key": 49
+                },
+        /*=================================================================================*/
+
 
 
 
