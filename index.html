@@ -119,10 +119,10 @@
     </script>
     <script name="userpoint" type="text/javascript">
     function getPoint(rank) {
-        if (rank > 400) {
+        if (rank > 200) {
             return roundNumber(0, 3);
         } else {
-            return roundNumber((400 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
+            return roundNumber((200 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
         }
     }
     function roundNumber(num, scale) {
@@ -160,10 +160,10 @@
             point_rank = rank;
         }
         hzpoint = 1 + (hzpoint * ((50-point_rank)/50));
-        if (rank > 950) {
+        if (rank > 200) {
             return 0;
         } else {
-            var score = roundNumber((((950 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (950 - (cutline - 1))), 3);
+            var score = roundNumber((((200 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (200 - (cutline - 1))), 3);
             if (percent != 100) {
                 return roundNumber(score - (score / 3), 3);
             } else {
@@ -243,12 +243,12 @@
         var arank = 0;
         var brank = 0;
         if (a.key == null) {
-            arank = 950 + (legacy_count - a.legacyKey);
+            arank = 200 + (legacy_count - a.legacyKey);
         } else {
             arank = (a.key) + 1;
         }
         if (b.key == null) {
-            brank = 950 + (legacy_count - b.legacyKey);
+            brank = 200 + (legacy_count - b.legacyKey);
         } else {
             brank = (b.key) + 1;
         }
