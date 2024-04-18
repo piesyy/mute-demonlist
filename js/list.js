@@ -277,7 +277,7 @@ const d = {
 				       "hz": ""
 			       },
               {
-				       "user": "ashley",
+				       "user": "stonerchick",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
 				       "percent": 35,
 				       "hz": ""
@@ -499,7 +499,7 @@ const d = {
 	{
                        "vids": [
               {
-				       "user": "ashley",
+				       "user": "stonerchick",
 				       "link": "https://www.youtube.com/watch?v=IpPrVi0ppqk",
 				       "percent": 75,
 				       "hz": ""
@@ -518,7 +518,7 @@ const d = {
 	{
                        "vids": [
               {
-				       "user": "ashley",
+				       "user": "stonerchick",
 				       "link": "https://www.youtube.com/watch?v=a5__P4XhBzY",
 				       "percent": 100,
 				       "hz": ""
@@ -570,7 +570,7 @@ const d = {
 	{
                        "vids": [
               {
-				       "user": "ashley",
+				       "user": "stonerchick",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
 				       "percent": 35,
 				       "hz": ""
@@ -707,7 +707,7 @@ const d = {
 	{
                        "vids": [
               {
-				       "user": "ashley",
+				       "user": "stonerchick",
 				       "link": "https://youtu.be/KYASdFQELrc?si=jWaulN6qbAVhaapG",
 				       "percent": 100,
 				       "hz": ""
@@ -873,7 +873,7 @@ const d = {
 
                        ],
                        "name": "Infinite Iniquity",
-                       "author": "ashley",
+                       "author": "stonerchick",
                        "more": "none",
                        "id": 59331091,
                        "pass": "",
@@ -1129,7 +1129,7 @@ const d = {
 				       "hz": ""
 			       },
               {
-				       "user": "ashley",
+				       "user": "stonerchick",
 				       "link": "https://youtu.be/l69WrNBMiY0?si=1IbZVAJakEUqLIUA",
 				       "percent": 100,
 				       "hz": ""
@@ -1179,7 +1179,7 @@ const d = {
 		{
 			"vids": [
               {
-				       "user": "ashley",
+				       "user": "stonerchick",
 				       "link": "https://youtu.be/7ErrOrYo6TU?si=OP6zvTcC0CnrYKVJ",
 				       "percent": 100,
 				       "hz": ""
@@ -1284,6 +1284,86 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/FbklH71ci3E?si=ssZatHeT019QWtzp",
                        "key": 69
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=P57iYh13ZAc",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Lucid Chaos",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 62817170,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=setLrwJYAhI",
+                       "key": 70
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+              {
+				       "user": "Vones",
+				       "link": "https://www.youtube.com/watch?v=JwStpWxerAQ",
+				       "percent": 82,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Freedom08",
+                       "author": "stonerchick",
+                       "more": "none",
+                       "id": 55274070,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/9UJ8GxQqL90?si=rjBUv0r-_lqo_d3J",
+                       "key": 71
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Photovoltaic II",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 49588510,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 72
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "The Moon Below",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 79484035,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 73
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Raisins",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 81429222,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/6c8bprq5xyQ?si=3agdUJ1EywZbbmKs",
+                       "key": 74
                 },
         /*=================================================================================*/
 
