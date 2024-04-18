@@ -688,6 +688,99 @@ const d = {
                        "key": 39
                 },
         /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "ashley",
+				       "link": "https://youtu.be/KYASdFQELrc?si=jWaulN6qbAVhaapG",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Gamma",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 39832454,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/AcxOFTiSL_k?si=6edJHYDJ_jWCFwEy",
+                       "key": 40
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Cybernetic Crescent",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 66291197,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/_A1vnKOmVMM?si=FKuSmxj_NKV0_N2L",
+                       "key": 41
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Wasureta",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 64658786,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/TrIIeeB23no?si=Ajf8Xr-PM7bBKjZh",
+                       "key": 42
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/2z38dCfhpCc?si=cu0KPsD23EpS4uSq",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 71,
+				       "hz": ""
+			       },
+              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/KBycCfFq5EU?si=43laAQubWijkHerN",
+				       "percent": 40,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Macabre",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 56782662,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/U_1oO0BuGpA?si=Mzaq7DYiTNae_WX-",
+                       "key": 43
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Sink",
+                       "author": "clover",
+                       "more": "none",
+                       "id": 77255632,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/0Jmdcml65X8?si=D6e450RC9n2-OSIv",
+                       "key": 44
+                },
+        /*=================================================================================*/
+
 
 
 	],
