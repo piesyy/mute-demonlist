@@ -1879,6 +1879,127 @@ const d = {
                        "key": 99
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/xqyvPk6w3a0?si=hGCsQf3d5l0KC8kL",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/1zSB-_e9KAY?si=0C9wtYdF45dc3JkR",
+				       "percent": 87,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Belloq",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 55610687,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=_wxjqvewZrY",
+                       "key": 100
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/vcH_SbTVKMg?si=At6jG5KkAKq9Thvt",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Glowy",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 37361518,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/7jIdgDBm0DM?si=BZKP0r-LfCnxIfs-",
+                       "key": 101
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Crystal",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 73645039,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 102
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Quaoar (Flosia)",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 73294395,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 103
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/ee9WvF_HUDs?si=J9d_VDlT2oLfOreK",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/RZWhnT-0Wl8?si=8IaS4V2Eo8tUr_4R",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/kCd0_LTlgf8?si=1L2BWfcw9HJ3zVhO",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/TrIIeeB23no?si=a_mI0kpxuRyUpXg5",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Freddy3",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Rate Demon",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 44860762,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/IIYDlVXcaVI?si=bQ2bQGkSFA4HoRKt",
+                       "key": 104
+                },
+        /*=================================================================================*/
 
 
 	],
