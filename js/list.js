@@ -1995,6 +1995,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Rate Demon",
                        "author": "Koozoo2000",
@@ -2324,6 +2330,45 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Y1QqpKbwAAA?si=O58F1PSF6Bioj_GK",
                        "key": 121
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "2 1 1",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 63514295,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=setLrwJYAhI",
+                       "key": 122
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "JT",
+				       "link": "https://youtu.be/yAuz3Fr0dEc?si=mdga7zJ07twUsBYO",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/9R86vQXkLAc?si=9l4k47u7o45GfhVH",
+				       "percent": 58,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Dolos",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 58417850,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/sj-wr-B4Ae4?si=d1Ezyivs4K-ULQe8",
+                       "key": 123
                 },
         /*=================================================================================*/
 
