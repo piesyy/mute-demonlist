@@ -2006,6 +2006,117 @@ const d = {
                        "key": 104
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Void Wave",
+                       "author": "stonerchick",
+                       "more": "none",
+                       "id": 59620684,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/yHQQorywdY8?si=GxOt275YlWdy5srb",
+                       "key": 105
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/UrWdXCAp_Ek?si=gEXs4nioN1ZsBEM-",
+				       "percent": 52,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Bausha Vortex",
+                       "author": "stonerchick",
+                       "more": "none",
+                       "id": 30380566,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/_hUPboiG-qw?si=BVOn2r_3gP4zDEqf",
+                       "key": 106
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Balengu Vortex",
+                       "author": "stonerchick",
+                       "more": "none",
+                       "id": 55385816,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/B9KMJUmQxeU?si=eIWXl6yvDDpVF9Ig",
+                       "key": 107
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/gul4xBv7cks?si=ru4Spf_YCflGnZmT",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "distraught",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 55224007,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/AWNL8U7okUI?si=Ywl7Pf_Uj6crHjLo",
+                       "key": 108
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Ethereal Artifice",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 58252259,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 109
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/P3--0rwwEik?si=pavtSfsgysDtLGBO",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Anwar Razlan",
+				       "link": "https://youtu.be/0rrEPyn66CQ?si=euE5oI5Z5ORKlB_G",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/vpM3R-60ONE?si=-oM76f-fGBNs3krM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Auditory Breaker",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 51791710,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/6efY1prdk28?si=MGdVoFExbkw7-GFl",
+                       "key": 110
+                },
+        /*=================================================================================*/
 
 
 	],
