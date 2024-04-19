@@ -3,7 +3,7 @@ function userList() {
   
     for (var i = 0; i < list.length; i++) {
         var entry = list[i];
-        var verifiede = false;
+        
         var checkVerify = false;
         var verifier = "";
         if (entry.author.split("[").length != 2) {
@@ -24,7 +24,6 @@ function userList() {
                 if (user_name == data_name) {
                     user_data[b].point = user_data[b].point + p;
                     user_data[b].verified.push(i+1);
-                    verifiede = true;
                 }
             }
         } else {
@@ -88,24 +87,18 @@ function getUserData(user) {
 
     var progresses = '<ol>'; var clears = 0;
 
-    for (var i = 0 ; i < (user_data[user].verified.length + user_data[user].progress.length) ; i++) {
-        checkVerify = true;
-        if (user_data[user].progress[i].progress == 100) {
-            rank = user_data[user].progress[i] - 1;
-            clears++;
-            progresses = progresses + '<li><a href="'+user_data[user].progress[i].link+'" target="blank_">' + user_data[user].progress[i].map + ' ' + user_data[user].progress[i].progress + '% </strong>(#'+user_data[user].progress[i].rank+' / UP: '+user_data[user].progress[i].score * 2 +''+(parseInt(user_data[user].progress[i].hz.replace("hz", "")) >= 120 ? '' : ''+user_data[user].progress[i].hz)+')<strong></a></li>'
-        } 
-        else if (user_data[user].progress[i].progress < 100)
-        {
-            rank = user_data[user].progress[i] - 1;
-            progresses = progresses + '<li><a href="'+user_data[user].progress[i].link+'" target="blank_">' + user_data[user].progress[i].map + ' ' + user_data[user].progress[i].progress + '% </strong>(#'+user_data[user].progress[i].rank+' / UP: '+user_data[user].progress[i].score * 2 +''+(parseInt(user_data[user].progress[i].hz.replace("hz", "")) >= 120 ? '' : ''+user_data[user].progress[i].hz)+')<strong></a></li>'
-        }
-        if (verifiede = true) {
-                  rank = user_data[user].verified[i] - 1;
+    for (var i = 0 ; i < user_data[user].verified.length ; i++) {
+        rank = user_data[user].verified[i] - 1;
+        clears++;
         progresses = progresses + '<li>' + list[rank].name + ' Verified </strong>(#'+(rank+1)+' / UP: '+roundNumber(getUserPoint(rank+1, 100, list[rank].percentToQualify, "144hz")*1, 3) * 2 +')<strong></a></li>'
+    }
+
+    for (var i = 0 ; i < user_data[user].progress.length ; i++) {
+        progresses = progresses + '<li><a href="'+user_data[user].progress[i].link+'" target="blank_">' + user_data[user].progress[i].map + ' ' + user_data[user].progress[i].progress + '% </strong>(#'+user_data[user].progress[i].rank+' / UP: '+user_data[user].progress[i].score * 2 +''+(parseInt(user_data[user].progress[i].hz.replace("hz", "")) >= 120 ? '' : ''+user_data[user].progress[i].hz)+')<strong></a></li>'
+        if (user_data[user].progress[i].progress == 100) {
+            clears++;
         }
     }
-    
     progresses = progresses + "</ol>"
 
     Swal.fire({
