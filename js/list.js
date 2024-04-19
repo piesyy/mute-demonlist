@@ -2056,19 +2056,19 @@ const d = {
 		{
 			"vids": [
 	              {
-				       "user": "stonerchick",
-				       "link": "https://youtu.be/gul4xBv7cks?si=ru4Spf_YCflGnZmT",
+				       "user": "Vink",
+				       "link": "https://youtu.be/AWNL8U7okUI?si=Ywl7Pf_Uj6crHjLo",
 				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
                        "name": "distraught",
-                       "author": "Vink",
+                       "author": "stonerchick",
                        "more": "none",
                        "id": 55224007,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/AWNL8U7okUI?si=Ywl7Pf_Uj6crHjLo",
+                       "verificationVid": "https://youtu.be/gul4xBv7cks?si=ru4Spf_YCflGnZmT",
                        "key": 108
                 },
         /*=================================================================================*/
