@@ -46,7 +46,7 @@ function userList() {
                 for (var b = 0 ; b < user_data.length ; b++) {
                     var user_name = user_data[b].name.toUpperCase(); var data_name = entry2.user.toUpperCase();
                     if (user_name == data_name) {
-                        user_data[b].point = user_data[b].point + p;
+                        user_data[b].point = user_data[b].point + p * 2;
                         
                         if (user_data[b].highest == "null" && parseInt(entry2.percent) == 100) {
                             user_data[b].highest = entry.name; 
@@ -74,7 +74,7 @@ function userList() {
     });
   
     for (var i = 0 ; i < user_data.length ; i++) {
-        user_data[i].point = roundNumber(user_data[i].point, 3);
+        user_data[i].point = roundNumber(user_data[i].point, 3) * 2;
         user_data[i].progress.sort(function(a, b) {
             return b["score"] - a["score"];
         });
