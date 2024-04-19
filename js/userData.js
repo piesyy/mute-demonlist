@@ -22,7 +22,7 @@ function userList() {
             for (var b = 0 ; b < user_data.length ; b++) {
                 var user_name = user_data[b].name.toUpperCase(); var data_name = verifier.toUpperCase();
                 if (user_name == data_name) {
-                    user_data[b].point = user_data[b].point + p;
+                    user_data[b].point = user_data[b].point;
                     user_data[b].verified.push(i+1);
                 }
             }
@@ -46,7 +46,7 @@ function userList() {
                 for (var b = 0 ; b < user_data.length ; b++) {
                     var user_name = user_data[b].name.toUpperCase(); var data_name = entry2.user.toUpperCase();
                     if (user_name == data_name) {
-                        user_data[b].point = user_data[b].point + p;
+                        user_data[b].point = user_data[b].point;
                         
                         if (user_data[b].highest == "null" && parseInt(entry2.percent) == 100) {
                             user_data[b].highest = entry.name; 
