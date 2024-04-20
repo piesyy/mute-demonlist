@@ -2546,7 +2546,7 @@ const d = {
                        "id": 63482186,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=Y6-iG7Q6Z4A",
+                       "verificationVid": "https://youtu.be/Y6-iG7Q6Z4A?si=xk5DX69EgrbofLJ2",
                        "key": 131
                 },
         /*=================================================================================*/
@@ -2661,7 +2661,7 @@ const d = {
 		{
 			"vids": [
 	              {
-				       "user": "stonerchick",
+				       "user": "plimbus",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
 				       "percent": 100,
 				       "hz": ""
