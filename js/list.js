@@ -2355,6 +2355,12 @@ const d = {
 				       "hz": ""
 			       },
 	              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 72,
+				       "hz": ""
+			       },
+	              {
 				       "user": "Vones",
 				       "link": "https://youtu.be/9R86vQXkLAc?si=9l4k47u7o45GfhVH",
 				       "percent": 58,
@@ -2369,6 +2375,51 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/sj-wr-B4Ae4?si=d1Ezyivs4K-ULQe8",
                        "key": 123
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Glitched Memories",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 55382704,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Nbn3g9Lzd9c",
+                       "key": 124
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/eKkc8Jyo6AY?si=RheQvvNuTiuLGFeO",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/6i5TxqKd_1E?si=wk7ga2xtZduNKH3g",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "ashley",
+				       "link": "https://youtu.be/XBYuoInyWQo?si=bDNcD_i1CwcJv4mS",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Audio Expulsion",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 48679353,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Gg8jZFrcYTQ?si=0hD4ZbyQ32OcVgS7",
+                       "key": 125
                 },
         /*=================================================================================*/
 
