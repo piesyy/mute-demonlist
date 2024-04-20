@@ -1814,7 +1814,12 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
+	              {
+				       "user": "JT",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 81,
+				       "hz": ""
+			       },
                        ],
                        "name": "Ouroboros Startpos 2",
                        "author": "plimbus",
@@ -1998,7 +2003,7 @@ const d = {
 	              {
 				       "user": "stonerchick",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
-				       "percent": 100,
+				       "percent": 78,
 				       "hz": ""
 			       },
                        ],
@@ -2725,6 +2730,31 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=c83Wf0qcxGQ",
+                       "key": 141
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=25v6CyYRoEQ",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=yQ-2h_gcw1A",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "SPEEDRUN",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 58507437,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=iwYHoPGmnOE",
                        "key": 141
                 },
         /*=================================================================================*/
