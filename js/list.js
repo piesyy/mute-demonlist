@@ -2422,6 +2422,95 @@ const d = {
                        "key": 125
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/aAs8PNhJQao?si=Xu8LVpz2lAGWmZxp",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Anoxysm",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 57430694,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/9jN1OdTWoWI?si=oIFFqZcSRwwH3CfH",
+                       "key": 126
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/9AvCHj2sDUk?si=LVXBOiB8fbM4U7XH",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=xFqj6a8sHS4",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "SubSonic",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 33387622,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/F8kM-L5rGIs?si=tK4f5kGQRgTl1mh8",
+                       "key": 127
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "The Cellar Path",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 85317764,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=iXPJTXxYW_w",
+                       "key": 128
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=oiqvITNqtFA",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=Qu-3W-TNp1U",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Boogie",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 72873416,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=setLrwJYAhI",
+                       "key": 129
+                },
+        /*=================================================================================*/
 
 
 	],
