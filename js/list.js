@@ -2511,6 +2511,223 @@ const d = {
                        "key": 129
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/HuHcP0W3JVg?si=XiiIX31fwJQJsvZL",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Mujigae",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 38765979,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/NW0XaM3n7y8?si=FN_dKxJz0QZjCMCZ",
+                       "key": 130
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Betrayal of Destiny",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 63482186,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Y6-iG7Q6Z4A",
+                       "key": 131
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Freddy3",
+				       "link": "https://www.youtube.com/watch?v=JP1ln7Fql3Q",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Shock Therapy",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 57121503,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Y6-iG7Q6Z4A",
+                       "key": 131
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "i hate you",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 68323859,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
+                       "key": 132
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Vivacious",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 76997619,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 133
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Breakout Redux",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 76997619,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=teJvikigOS8",
+                       "key": 134
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Low Death",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 60603962,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=tVDyZZDVfLQ",
+                       "key": 135
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Faded Dream",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 86233175,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=cD9tk1FePvo",
+                       "key": 135
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=PmNgWAuxNyE",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "ErebuS",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 65860142,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=_eyl6FzhAxY",
+                       "key": 136
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "hot rod",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 95355264,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=rNRGp8xIt6Y",
+                       "key": 137
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "ruber cash 22",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 78007735,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 138
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=cYBNjGclB8c",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=OwZYbKzFAxw",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=375p3sOttcU",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=oVQBU5p4JeM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Athanatos",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 26133601,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=c83Wf0qcxGQ",
+                       "key": 139
+                },
+        /*=================================================================================*/
 
 
 	],
