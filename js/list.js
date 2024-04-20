@@ -2758,6 +2758,120 @@ const d = {
                        "key": 142
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Shock Breaker",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 64051003,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=_Y0NPe864Uo",
+                       "key": 143
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Microsoft DriveThru",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 94164875,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
+                       "key": 144
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "memories ",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 83235400,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=2AGpXv8pzsw",
+                       "key": 145
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Endless Dream",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 70484097,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=xQzwkRh_9X4",
+                       "key": 146
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=5nnvC-fKSPE",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Freddy3",
+				       "link": "https://youtu.be/hRswvwSazdM?si=P6B84aPXW7HeJDVc",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Infernal Abyss",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 27379546,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=AYNOPu4pE-A",
+                       "key": 147
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Fabricated Thoughts",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 61151935,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 148
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Curie",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 87816034,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 149
+                },
+        /*=================================================================================*/
 
 
 	],
