@@ -1448,6 +1448,12 @@ const d = {
 				       "hz": ""
 			       },
 	              {
+				       "user": "JT",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 35,
+				       "hz": ""
+			       },
+	              {
 				       "user": "Koozoo2000",
 				       "link": "https://youtu.be/pKODP-7v7tA?si=-x7zfLNlqVmDnA5w",
 				       "percent": 19,
