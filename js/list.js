@@ -523,25 +523,6 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=a5__P4XhBzY",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Visible Ray ",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 48267315,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=-zShTTVLXII",
-                       "key": 30
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
 
                        ],
                        "name": "The Yandere",
@@ -551,7 +532,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=cyNlAH6ANWE",
-                       "key": 31
+                       "key": 30
                 },
         /*=================================================================================*/
 	{
@@ -570,7 +551,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=vQS-VWaucXM",
-                       "key": 32
+                       "key": 31
                 },
         /*=================================================================================*/
 	{
@@ -595,6 +576,25 @@ const d = {
                        "pass": "who cares",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=BfjpvKXizCI",
+                       "key": 32
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=a5__P4XhBzY",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Visible Ray ",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 48267315,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=-zShTTVLXII",
                        "key": 33
                 },
         /*=================================================================================*/
