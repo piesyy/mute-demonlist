@@ -1822,8 +1822,8 @@ const d = {
 			"vids": [
 	              {
 				       "user": "JT",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
-				       "percent": 81,
+				       "link": "https://www.youtube.com/watch?v=CT84uKtqhYo",
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
