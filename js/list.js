@@ -9,6 +9,12 @@ const d = {
 				       "percent": 53,
 				       "hz": ""
 			       },
+			           {
+				       "user": "Vones",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 5,
+				       "hz": ""
+			       },
                        ],
                        "name": "Oblivion",
                        "author": "clover",
