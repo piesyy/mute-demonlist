@@ -2020,8 +2020,8 @@ const d = {
 			       },
 	              {
 				       "user": "stonerchick",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
-				       "percent": 78,
+				       "link": "https://www.youtube.com/watch?v=Bn9384Xef3o",
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
