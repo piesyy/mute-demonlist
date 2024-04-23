@@ -2024,6 +2024,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+	              {
+				       "user": "clover",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Rate Demon",
                        "author": "Koozoo2000",
@@ -2168,6 +2174,12 @@ const d = {
 	              {
 				       "user": "Vink",
 				       "link": "https://www.youtube.com/watch?v=XD-MsmIr19E",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=dUj6Ys7cL_Y",
 				       "percent": 100,
 				       "hz": ""
 			       },
