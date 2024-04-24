@@ -2659,7 +2659,12 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
+	              {
+				       "user": "Vones",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 46,
+				       "hz": ""
+			       },
                        ],
                        "name": "Low Death",
                        "author": "Freddy3",
@@ -3187,7 +3192,12 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
+	              {
+				       "user": "JT",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 46,
+				       "hz": ""
+			       },
                        ],
                        "name": "Falcon16",
                        "author": "plimbus",
@@ -3261,6 +3271,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 18,
+				       "hz": ""
+			       },
                        ],
                        "name": "Phobos",
                        "author": "Koozoo2000",
@@ -3270,6 +3286,148 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=ys3scdKqYIU",
                        "key": 169
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Showdown",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 93799148,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=CEPh_pOEKJXITmDw",
+                       "key": 170
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Shibui",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 63733585,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=CEPh_pOEKJXITmDw",
+                       "key": 171
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=r64LtzJxhn8",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "EXPLICIT",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 74028410,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=TrIIeeB23no",
+                       "key": 172
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "clover",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=_w_rR2MQ-VY",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=VBMueca2pL0",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Sakupen Hell",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 23262780,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=JtR-PFrP6Ps",
+                       "key": 173
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/O9Tnh8oE_ds",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Ancestral Calamity",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 48591102,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=cfvlEFF7mo4",
+                       "key": 174
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Wild Rose",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 83676299,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=nY_vzRNweag",
+                       "key": 175
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Freddy3",
+				       "link": "https://www.youtube.com/watch?v=XApyR2o2sxg",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=Faklf8wsxZ4",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vones",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 31,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Blade of Justice",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 35448603,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=MbJbIP1fYME",
+                       "key": 176
                 },
         /*=================================================================================*/
 
