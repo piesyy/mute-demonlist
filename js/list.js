@@ -2913,6 +2913,181 @@ const d = {
                        "key": 149
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=GEZd4CdAsS8",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "RASH",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 69507105,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/wMpvghmsXPU?si=BuFjATE9J-sC_vxq",
+                       "key": 150
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/O9Tnh8oE_ds",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Ithacropolis",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 41149984,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/5lcbr2pXQLI",
+                       "key": 151
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "OPSM1",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 68193306,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/psoLcXM_2Mw?si=_JBCO_jPDd05h2z7",
+                       "key": 152
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=setLrwJYAhI",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Team Z",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 38234257,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=WE_Dh8Bux_s",
+                       "key": 153
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Disaster Dive",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 81280541,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/A3q4Z3dhIy0",
+                       "key": 154
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=W4QcI1VV3gs",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Mystic",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 35738539,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=1iFY3of-7w0",
+                       "key": 155
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "DARKENED",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 66085306,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/O9Tnh8oE_ds",
+                       "key": 156
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=CEPh_pOEKJXITmDw",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "EnvY",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 45411361,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=mbXLTcuXrls",
+                       "key": 157
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/O9Tnh8oE_ds",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Carnage Mode",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 36107975,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=lp_CEeAHZOA",
+                       "key": 158
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Removed Submission",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 52113279,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/u_Uk7IlVrO0",
+                       "key": 159
+                },
+        /*=================================================================================*/
 
 
 	],
