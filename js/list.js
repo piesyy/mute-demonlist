@@ -2949,7 +2949,7 @@ const d = {
 				       "user": "Vink",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
 				       "percent": 84,
-				       "hz": "60"
+				       "hz": "60hz"
 			       },
 	              {
 				       "user": "Freddy3",
