@@ -67,19 +67,17 @@ function userList() {
             }
         }
     }
-  
-    var sortingField = "point"
-    user_data.sort(function(a, b) {
-    return b[sortingField] - a[sortingField];
-    });
-  
-    return user_data;
 }
 
 function getUserData(user) {
     var user_data = userList();
 
     var progresses = '<ol>'; var clears = 0;
+    
+    var sortingField = "point"
+    user_data.sort(function(a, b) {
+    return b[sortingField] - a[sortingField];
+    });
 
     for (var i = 0 ; i < user_data[user].verified.length ; i++) {
         rank = user_data[user].verified[i] - 1;
@@ -101,6 +99,7 @@ function getUserData(user) {
             return a["rank"] - b["rank"];
         });
     }
+        return user_data;
     progresses = progresses + "</ol>"
 
     Swal.fire({
