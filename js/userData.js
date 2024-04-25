@@ -67,26 +67,33 @@ function userList() {
             }
         }
     }
+  
+    var sortingField = "point"
+    user_data.sort(function(a, b) {
+    return b[sortingField] - a[sortingField];
+    });
+  
+    for (var i = 0 ; i < user_data.length ; i++) {
+        user_data[i].point = roundNumber(user_data[i].point, 3);
+        user_data[i].progress.sort(function(a, b) {
+            a["rank"] - b["rank"];
+        });
+        user_data[i].verified.sort(function(a, b) {
+            a["rank"] - b["rank"];
+        });
+    }
+    return user_data;
 }
 
 function getUserData(user) {
     var user_data = userList();
 
     var progresses = '<ol>'; var clears = 0;
-    
-    var sortingField = "point"
-    user_data.sort(function(a, b) {
-    return b[sortingField] - a[sortingField];
-    });
 
     for (var i = 0 ; i < user_data[user].verified.length ; i++) {
         rank = user_data[user].verified[i] - 1;
         clears++;
         progresses = progresses + '<li>' + list[rank].name + ' Verified </strong>(#'+(rank+1)+' / UP: '+roundNumber(getUserPoint(rank+1, 100, list[rank].percentToQualify, "144hz")*1, 3) * 2 +')<strong></a></li>'
-        user_data[i].point = roundNumber(user_data[i].point, 3);
-        user_data[i].verified.sort(function(a, b) {
-            return a["rank"] - b["rank"];
-        });
     }
 
     for (var i = 0 ; i < user_data[user].progress.length ; i++) {
@@ -94,12 +101,7 @@ function getUserData(user) {
         if (user_data[user].progress[i].progress == 100) {
             clears++;
         }
-        user_data[i].point = roundNumber(user_data[i].point, 3);
-        user_data[i].progress.sort(function(a, b) {
-            return a["rank"] - b["rank"];
-        });
     }
-        return user_data;
     progresses = progresses + "</ol>"
 
     Swal.fire({
