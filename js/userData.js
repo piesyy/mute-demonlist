@@ -76,7 +76,7 @@ function userList() {
     for (var i = 0 ; i < user_data.length ; i++) {
         user_data[i].point = roundNumber(user_data[i].point, 3);
         user_data[i].progress.sort(function(a, b) {
-            return b["rank"] - a["rank"];
+            return a["rank"] - b["rank"];
         });
         user_data[i].verified.sort(function(a, b) {
             return b["score"] - a["score"];
