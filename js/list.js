@@ -3054,15 +3054,20 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/O9Tnh8oE_ds",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "DARKENED",
-                       "author": "plimbus",
+                       "author": "Koozoo2000",
                        "more": "none",
                        "id": 66085306,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/O9Tnh8oE_ds",
+                       "verificationVid": "https://youtu.be/lA--Uh1BlWA?si=x1ECj9XYrjFSmVsJ",
                        "key": 157
                 },
         /*=================================================================================*/
