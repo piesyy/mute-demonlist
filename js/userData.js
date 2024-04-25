@@ -73,13 +73,13 @@ function userList() {
     return b[sortingField] - a[sortingField];
     });
   
-    for (var i = 0 ; i < user_data.progress.length ; i++) {
+    for (var i = 0 ; i < user_data[user].progress.length ; i++) {
         user_data[i].point = roundNumber(user_data[i].point, 3);
         user_data[i].progress.sort(function(a, b) {
             return a["rank"] - b["rank"];
         });
     }
-    for (var i = 0 ; i < user_data.verified.length ; i++) {
+    for (var i = 0 ; i < user_data[user].verified.length ; i++) {
         user_data[i].point = roundNumber(user_data[i].point, 3);
         user_data[i].verified.sort(function(a, b) {
             return a["rank"] - b["rank"];
