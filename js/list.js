@@ -3460,6 +3460,59 @@ const d = {
                        "key": 177
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Alpha Baa X",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 62100870,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/js6meyhUVbw",
+                       "key": 178
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=-wx_2tVDOIY",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=1LcYwFN-y2bdd6iD",
+				       "percent": 76,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Biohazard",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 61997741,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Rerl-N1pvuo",
+                       "key": 179
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Triadic Trials",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 83421663,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/js6meyhUVbw?si=-lsX-iblR9qN0CVb",
+                       "key": 180
+                },
+        /*=================================================================================*/
 
 	],
 	"version": [
