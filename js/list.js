@@ -2951,6 +2951,12 @@ const d = {
 				       "percent": 84,
 				       "hz": "60"
 			       },
+	              {
+				       "user": "Freddy3",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 84,
+				       "hz": ""
+			       },
                        ],
                        "name": "RASH",
                        "author": "piesy",
