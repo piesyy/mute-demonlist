@@ -56,7 +56,7 @@ const d = {
 		              {
 				       "user": "Vones",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
-				       "percent": 45,
+				       "percent": 46,
 				       "hz": ""
 			       },
                        ],
@@ -2360,7 +2360,12 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 49,
+				       "hz": ""
+			       },
                        ],
                        "name": "Astral Divinity",
                        "author": "plimbus",
