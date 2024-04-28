@@ -434,6 +434,37 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=IpPrVi0ppqk",
+				       "percent": 75,
+				       "hz": ""
+			       },
+              {
+				       "user": "Derpspace",
+				       "link": "https://www.youtube.com/watch?v=FuQv1hcLtQU",
+				       "percent": 64,
+				       "hz": ""
+			       },
+              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 5,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "kowareta",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 46763581,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=DF9v0zxs5FQ",
+                       "key": 24
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
               
                        ],
                        "name": "ATOMIC CANNON",
@@ -443,7 +474,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=LDV9GUhqsow",
-                       "key": 24
+                       "key": 25
                 },
         /*=================================================================================*/
 	{
@@ -457,7 +488,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Fqx7Wn_WzN4?si=xMI5WXXl3wAZ_1yI",
-                       "key": 25
+                       "key": 26
                 },
         /*=================================================================================*/
 	{
@@ -471,7 +502,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=SS0qsZ2Bk5k",
-                       "key": 26
+                       "key": 27
                 },
         /*=================================================================================*/
 	{
@@ -485,7 +516,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/ydnc-JjLZw8?si=dC1g458qP93EwSCH",
-                       "key": 27
+                       "key": 28
                 },
         /*=================================================================================*/
 	{
@@ -499,25 +530,6 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=zrqZmPbsxVA",
-                       "key": 28
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
-              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=IpPrVi0ppqk",
-				       "percent": 75,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "kowareta",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 46763581,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=DF9v0zxs5FQ",
                        "key": 29
                 },
         /*=================================================================================*/
@@ -670,15 +682,20 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-
+              {
+				       "user": "Derpspace",
+				       "link": "https://youtu.be/M4TZdTLN3eM?si=GdBD7GEsxE92RIpb",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "of Ambrosia",
-                       "author": "Vink",
+                       "author": "Derpspace",
                        "more": "none",
                        "id": 81583127,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/M4TZdTLN3eM?si=GdBD7GEsxE92RIpb",
+                       "verificationVid": "https://www.youtube.com/watch?v=fj36QQQG2uk",
                        "key": 37
                 },
         /*=================================================================================*/
