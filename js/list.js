@@ -890,7 +890,7 @@ const d = {
                        "id": 65460294,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/Yb2g83OEn5A?si=CHQuYKF_2Abe6ZCy",
+                       "verificationVid": "https://youtu.be/58RB1SOAaps?si=vCqsc3MjRJfJuyWl",
                        "key": 49
                 },
         /*=================================================================================*/
