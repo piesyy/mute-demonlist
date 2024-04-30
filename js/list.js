@@ -8,7 +8,7 @@ const d = {
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
 				       "percent": 53,
 				       "hz": ""
-			       bu
+				},
 			           {
 				       "user": "Vones",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
