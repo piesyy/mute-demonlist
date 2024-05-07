@@ -2411,20 +2411,6 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
-                       ],
-                       "name": "Sodium",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 95338625,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
-                       "key": 123
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
 	              {
 				       "user": "Vink",
 				       "link": "https://www.youtube.com/watch?v=28nux9uirUw",
@@ -2741,20 +2727,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
                        "key": 138
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Vivacious",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 76997619,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
-                       "key": 139
                 },
         /*=================================================================================*/
 		{
@@ -3197,20 +3169,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/u_Uk7IlVrO0",
                        "key": 163
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "The First",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 88292864,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/js6meyhUVbw",
-                       "key": 164
                 },
         /*=================================================================================*/
 		{
@@ -3774,20 +3732,6 @@ const d = {
 			"vids": [
 
                        ],
-                       "name": "neighborhood",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 93794284,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=js6meyhUVbw",
-                       "key": 193
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
                        "name": "Sunk",
                        "author": "plimbus",
                        "more": "none",
@@ -3898,6 +3842,20 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/TrIIeeB23no?si=5omABHQc2XWe40Y2",
                        "key": 198
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "The First",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 88292864,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/js6meyhUVbw",
+                       "key": 164
                 },
         /*=================================================================================*/
 		{
