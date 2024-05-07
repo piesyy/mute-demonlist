@@ -2358,31 +2358,6 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=FxgH_NY_oU0",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Ziroikapi",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 56827411,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=1wVsEDCbMHM",
-                       "key": 120
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
 
                        ],
                        "name": "DMG CTRL",
@@ -2392,7 +2367,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/O9Tnh8oE_ds?si=LIO_o3Fd2VrSS68T",
-                       "key": 121
+                       "key": 120
                 },
         /*=================================================================================*/
 		{
@@ -2417,7 +2392,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/F-XC1dkEpdU?si=rLewjlIT2Wn1iTlU",
-                       "key": 122
+                       "key": 121
                 },
         /*=================================================================================*/
 		{
@@ -2436,7 +2411,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=vy-e4ScqE9Q",
-                       "key": 123
+                       "key": 122
                 },
         /*=================================================================================*/
 		{
@@ -2461,6 +2436,31 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Y1QqpKbwAAA?si=O58F1PSF6Bioj_GK",
+                       "key": 123
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=FxgH_NY_oU0",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Ziroikapi",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 56827411,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=1wVsEDCbMHM",
                        "key": 124
                 },
         /*=================================================================================*/
