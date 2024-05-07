@@ -429,25 +429,6 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-              	{
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=8Zy_yeIH5Vw",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Pagoda",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 77669659,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=Y3XcHlYwMGA",
-                       "key": 24
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
               {
 				       "user": "stonerchick",
 				       "link": "https://www.youtube.com/watch?v=IpPrVi0ppqk",
@@ -474,7 +455,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=DF9v0zxs5FQ",
-                       "key": 25
+                       "key": 24
                 },
         /*=================================================================================*/
 	{
@@ -488,7 +469,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=LDV9GUhqsow",
-                       "key": 26
+                       "key": 25
                 },
         /*=================================================================================*/
 	{
@@ -502,7 +483,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Fqx7Wn_WzN4?si=xMI5WXXl3wAZ_1yI",
-                       "key": 27
+                       "key": 26
                 },
         /*=================================================================================*/
 	{
@@ -516,7 +497,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=SS0qsZ2Bk5k",
-                       "key": 28
+                       "key": 27
                 },
         /*=================================================================================*/
 	{
@@ -530,7 +511,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/ydnc-JjLZw8?si=dC1g458qP93EwSCH",
-                       "key": 29
+                       "key": 28
                 },
         /*=================================================================================*/
 	{
@@ -544,7 +525,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=zrqZmPbsxVA",
-                       "key": 30
+                       "key": 29
                 },
         /*=================================================================================*/
 	{
@@ -563,7 +544,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=sMz6FvjAkuE",
-                       "key": 31
+                       "key": 30
                 },
         /*=================================================================================*/
 	{
@@ -577,7 +558,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=cyNlAH6ANWE",
-                       "key": 32
+                       "key": 31
                 },
         /*=================================================================================*/
 	{
@@ -596,6 +577,25 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=vQS-VWaucXM",
+                       "key": 32
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              	{
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=8Zy_yeIH5Vw",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Pagoda",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 77669659,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Y3XcHlYwMGA",
                        "key": 33
                 },
         /*=================================================================================*/
