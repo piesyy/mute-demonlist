@@ -3872,6 +3872,53 @@ const d = {
                        "key": 196
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=_71-3MsTzao",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "moment",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 68848817,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=setLrwJYAhI",
+                       "key": 197
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Astrophobia",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 94772024,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+                       "key": 198
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "SUPERMAYOHATECLUB",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 90942005,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/O9Tnh8oE_ds?si=3VHw4sy-rYuCCcPF",
+                       "key": 199
+                },
+        /*=================================================================================*/
 
 	],
 	"version": [
