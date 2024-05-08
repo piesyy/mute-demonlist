@@ -3459,6 +3459,12 @@ const d = {
 				       "hz": ""
 			       },
 	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=WheOjvGAJic",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
 				       "user": "Vones",
 				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
 				       "percent": 31,
