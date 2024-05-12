@@ -1717,7 +1717,7 @@ const d = {
 			       },
 	              {
 				       "user": "Vones",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhMHOC",
+				       "link": "https://www.youtube.com/watch?v=p1QVfoh5BM8",
 				       "percent": 100,
 				       "hz": ""
 			       },
