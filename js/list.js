@@ -2770,7 +2770,7 @@ const d = {
                        "id": 57121503,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=Y6-iG7Q6Z4A",
+                       "verificationVid": "https://youtu.be/XQNcFfgp5iE?si=SWgNYNJwUjBb0ebJ",
                        "key": 138
                 },
         /*=================================================================================*/
