@@ -2778,7 +2778,7 @@ const d = {
 				       "hz": ""
 			       },
                        ],
-                       "name": "Sk Therapy",
+                       "name": "Shock Therapy",
                        "author": "piesy",
                        "more": "none",
                        "id": 57121503,
