@@ -730,7 +730,7 @@ const d = {
                        "id": 52303420,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+                       "verificationVid": "https://youtu.be/XvHn8WSz3zw?si=zVxgufQ9yKu6haC9",
                        "key": 39
                 },
         /*=================================================================================*/
