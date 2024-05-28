@@ -3466,8 +3466,8 @@ const d = {
 			       },
 	              {
 				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-				       "percent": 18,
+				       "link": "https://youtu.be/3ItCZB1nQWI?si=DiCmpvq4usAe1x5a",
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
