@@ -194,20 +194,6 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-
-                       ],
-                       "name": "Renevant",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 58161496,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=u9reFn4E4uQ",
-                       "key": 11
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
               	{
 				       "user": "Vink",
 				       "link": "https://www.youtube.com/watch?v=AwIbXBVuaZE",
@@ -228,7 +214,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=NdMosc16d4w",
-                       "key": 12
+                       "key": 11
                 },
         /*=================================================================================*/
 	{
@@ -242,6 +228,20 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=elZcquhwJkg",
+                       "key": 12
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Renevant",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 58161496,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=u9reFn4E4uQ",
                        "key": 13
                 },
         /*=================================================================================*/
