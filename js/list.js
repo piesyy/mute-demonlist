@@ -1648,6 +1648,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/sn8JALoEDSs?si=vE_bmtbG8lJfk_bj",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Cadrega City",
                        "author": "piesy",
