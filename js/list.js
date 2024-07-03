@@ -727,20 +727,6 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-
-                       ],
-                       "name": "Ourwa",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 61598653,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=lVbQN1Z8ONY",
-                       "key": 41
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
               {
 				       "user": "plimbus",
 				       "link": "https://www.youtube.com/watch?v=hI_8EHTTPO0",
@@ -773,6 +759,20 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=zxMhYCfzQN0",
+                       "key": 41
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Ourwa",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 61598653,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=lVbQN1Z8ONY",
                        "key": 42
                 },
         /*=================================================================================*/
