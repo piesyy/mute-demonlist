@@ -190,6 +190,12 @@ const d = {
 	{
                        "vids": [
               {
+				       "user": "piesy",
+				       "link": "https://youtu.be/ImtNMy1LYEo",
+				       "percent": 100,
+				       "hz": ""
+			       },
+              {
 				       "user": "plimbus",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
 				       "percent": 46,
