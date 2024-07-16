@@ -391,7 +391,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-
+              	{
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=-Eyr6HU8XEQ",
+				       "percent": 70,
+				       "hz": ""
+			       },
                        ],
                        "name": "no jokes",
                        "author": "Vink",
@@ -534,15 +539,15 @@ const d = {
 	{
                        "vids": [
               {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=IpPrVi0ppqk",
-				       "percent": 75,
+				       "user": "Derpspace",
+				       "link": "https://youtu.be/MDA0anfTdR8?si=u9q_aCUElK-ugLxm",
+				       "percent": 88,
 				       "hz": ""
 			       },
               {
-				       "user": "Derpspace",
-				       "link": "https://www.youtube.com/watch?v=FuQv1hcLtQU",
-				       "percent": 64,
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=IpPrVi0ppqk",
+				       "percent": 75,
 				       "hz": ""
 			       },
               {
