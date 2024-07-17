@@ -393,8 +393,8 @@ const d = {
                        "vids": [
               	{
 				       "user": "piesy",
-				       "link": "https://www.youtube.com/watch?v=-Eyr6HU8XEQ",
-				       "percent": 70,
+				       "link": "https://youtu.be/n9BWovRVWJY?si=yuY1wpamdrjD4j82",
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
