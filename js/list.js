@@ -30,20 +30,6 @@ const d = {
                        "vids": [
               
                        ],
-                       "name": "NETWORK",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 95176417,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/qxEXObQ0TXQ?si=BoIxKNPiAWCe6xhR",
-                       "key": 1
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
-              
-                       ],
                        "name": "Delta",
                        "author": "piesy",
                        "more": "none",
@@ -51,6 +37,20 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/2yanh8rXUp0",
+                       "key": 1
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
+                       "name": "NETWORK",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 95176417,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/qxEXObQ0TXQ?si=BoIxKNPiAWCe6xhR",
                        "key": 2
                 },
         /*=================================================================================*/
