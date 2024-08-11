@@ -2227,8 +2227,8 @@ const d = {
 			       },
 	              {
 				       "user": "Vones",
-				       "link": "https://youtu.be/1zSB-_e9KAY?si=0C9wtYdF45dc3JkR",
-				       "percent": 87,
+				       "link": "https://www.youtube.com/watch?v=ja0oJsrhMuw",
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
