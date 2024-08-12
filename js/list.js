@@ -365,20 +365,6 @@ const d = {
                        "vids": [
 
                        ],
-                       "name": "Fog",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 90853661,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=C0ENmsMBr4Q",
-                       "key": 20
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
-
-                       ],
                        "name": "Terminux",
                        "author": "plimbus",
                        "more": "none",
@@ -386,7 +372,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=6L3i1vrZ4F8",
-                       "key": 21
+                       "key": 20
                 },
         /*=================================================================================*/
 	{
@@ -400,7 +386,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Jh7g29HtdxM?si=m4oCrBl1qXUV0N4E",
-                       "key": 22
+                       "key": 21
                 },
         /*=================================================================================*/
 	{
@@ -419,7 +405,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=tGAHgpiwPpo",
-                       "key": 23
+                       "key": 22
                 },
         /*=================================================================================*/
 	{
@@ -444,7 +430,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Rok2B0nsWlI",
-                       "key": 24
+                       "key": 23
                 },
         /*=================================================================================*/
 	{
@@ -458,6 +444,20 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/H6VorW5Pd2A?si=autFN78OwLLPxXY6",
+                       "key": 24
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "Fog",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 90853661,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=C0ENmsMBr4Q",
                        "key": 25
                 },
         /*=================================================================================*/
