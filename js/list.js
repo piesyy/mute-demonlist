@@ -338,6 +338,25 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+              	{
+				       "user": "piesy",
+				       "link": "https://youtu.be/n9BWovRVWJY?si=yuY1wpamdrjD4j82",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "no jokes",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 84507862,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=tGAHgpiwPpo",
+                       "key": 19
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
 	              {
 				       "user": "plimbus",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
@@ -358,7 +377,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=xw2gNmM1VgQ",
-                       "key": 19
+                       "key": 20
                 },
         /*=================================================================================*/
 	{
@@ -372,7 +391,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=6L3i1vrZ4F8",
-                       "key": 20
+                       "key": 21
                 },
         /*=================================================================================*/
 	{
@@ -386,25 +405,6 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Jh7g29HtdxM?si=m4oCrBl1qXUV0N4E",
-                       "key": 21
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
-              	{
-				       "user": "piesy",
-				       "link": "https://youtu.be/n9BWovRVWJY?si=yuY1wpamdrjD4j82",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "no jokes",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 84507862,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=tGAHgpiwPpo",
                        "key": 22
                 },
         /*=================================================================================*/
