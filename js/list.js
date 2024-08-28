@@ -100,8 +100,8 @@ const d = {
                        "vids": [
               {
 				       "user": "clover",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 70,
+				       "link": "https://youtu.be/4xD07jJO-y0?si=3U7G-56cM7E9GdEt",
+				       "percent": 100,
 				       "hz": ""
 			       },
 		              {
