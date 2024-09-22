@@ -1403,12 +1403,18 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-              {
+              			{
 				       "user": "plimbus",
 				       "link": "https://youtu.be/setLrwJYAhI?si=VT9fFPGqRX6FWfZG",
 				       "percent": 100,
 				       "hz": ""
 			       },
+			 	{
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/xEidjtEiLEM?si=vRee2fB3_LtpVMCh",
+				       "percent": 100,
+				       "hz": ""
+				},
                        ],
                        "name": "Erebus",
                        "author": "piesy",
