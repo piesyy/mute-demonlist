@@ -104,6 +104,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+		{
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 50,
+				       "hz": ""
+			       },
 		              {
 				       "user": "Vones",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
@@ -420,6 +426,12 @@ const d = {
 				       "user": "plimbus",
 				       "link": "https://www.youtube.com/watch?v=WzX6Of50TgI",
 				       "percent": 100,
+				       "hz": ""
+			       },
+		{
+				       "user": "Derpspace",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 52,
 				       "hz": ""
 			       },
                        ],
