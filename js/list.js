@@ -36,6 +36,20 @@ const d = {
                        "vids": [
               
                        ],
+                       "name": "The Golden",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 60978746,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Xyu39_GSat4?si=UXi9luqNx1NDN1jk",
+                       "key": 1
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+              
+                       ],
                        "name": "Delta",
                        "author": "piesy",
                        "more": "none",
@@ -3889,20 +3903,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=cfvlEFF7mo4",
                        "key": 194
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Wild Rose",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 83676299,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=nY_vzRNweag",
-                       "key": 195
                 },
         /*=================================================================================*/
 
