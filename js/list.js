@@ -279,6 +279,20 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+
+                       ],
+                       "name": "RUST",
+                       "author": "bulbazorio",
+                       "more": "none",
+                       "id": 71912451,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/InHRHxTrAjI?si=SlOCJSGqjuNvh-El",
+                       "key": 15
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
               
                        ],
                        "name": "ATOMIC CANNON Mk II",
@@ -590,6 +604,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+	 {
+				       "user": "bulbazorio",
+				       "link": "https://youtu.be/L2TA403xOvw?si=rQNzV0kACObwfQNR",
+				       "percent": 100,
+				       "hz": ""
+			       },
               {
 				       "user": "stonerchick",
 				       "link": "https://www.youtube.com/watch?v=IpPrVi0ppqk",
@@ -699,6 +719,12 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+		{
+				       "user": "bulbazorio",
+				       "link": "https://youtu.be/LEIdjaVkC0M?si=blDg7UJoQ2RDlGJ6",
+				       "percent": 100,
+				       "hz": ""
+			       },
               {
 				       "user": "Koozoo2000",
 				       "link": "https://www.youtube.com/watch?v=j2KsivPsjFk",
@@ -886,6 +912,20 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=LEm__t53OPY",
+                       "key": 47
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
+
+                       ],
+                       "name": "AKIRA",
+                       "author": "bulbazorio",
+                       "more": "none",
+                       "id": 88421468,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/DeSbglY9rL4?si=20mIP95yHwfav49a",
                        "key": 47
                 },
         /*=================================================================================*/
@@ -1542,6 +1582,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+		{
+				       "user": "bulbazorio",
+				       "link": "https://youtu.be/t0u0JN8mDVk?si=3mDx40Al6tpG7B4a",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Chromatic Haze",
                        "author": "Freddy3",
@@ -1967,6 +2013,12 @@ const d = {
 	              {
 				       "user": "Freddy3",
 				       "link": "https://youtu.be/rnNl7ETNn3w?si=_MGwfMztGElPjh7B",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "bulbazorio",
+				       "link": "https://youtu.be/yn2OAbaqL7Q?si=tKAkmCTMmmshnKKF",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -3868,65 +3920,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=MbJbIP1fYME",
                        "key": 196
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Alpha Baa X",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 62100870,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/js6meyhUVbw",
-                       "key": 197
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "piesy",
-				       "link": "https://www.youtube.com/watch?v=-wx_2tVDOIY",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vones",
-				       "link": "https://www.youtube.com/watch?v=bFTVgH0GVv4",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=Y8AWwHrTgTI",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Biohazard",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 61997741,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=Rerl-N1pvuo",
-                       "key": 198
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Triadic Trials",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 83421663,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/js6meyhUVbw?si=-lsX-iblR9qN0CVb",
-                       "key": 199
                 },
         /*=================================================================================*/
 
