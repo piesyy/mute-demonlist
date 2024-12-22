@@ -2429,6 +2429,20 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
+
+                       ],
+                       "name": "DESOLATE",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 89487717,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+                       "key": 119
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
 	              {
 				       "user": "Vones",
 				       "link": "https://youtu.be/ee9WvF_HUDs?si=J9d_VDlT2oLfOreK",
