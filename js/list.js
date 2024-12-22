@@ -2733,6 +2733,20 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
+
+                       ],
+                       "name": "Gateway",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 94924286,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
+                       "key": 131
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
 	              {
 				       "user": "p0isoned",
 				       "link": "https://www.youtube.com/watch?v=Ly6Yi4LcOSA",
@@ -3869,56 +3883,7 @@ const d = {
                        "key": 192
                 },
         /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "clover",
-				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=_w_rR2MQ-VY",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vink",
-				       "link": "https://www.youtube.com/watch?v=VBMueca2pL0",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Sakupen Hell",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 23262780,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=JtR-PFrP6Ps",
-                       "key": 193
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/O9Tnh8oE_ds",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Ancestral Calamity",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 48591102,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=cfvlEFF7mo4",
-                       "key": 194
-                },
-        /*=================================================================================*/
+
 
 	],
 	"version": [
