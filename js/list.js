@@ -3034,6 +3034,20 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
+
+                       ],
+                       "name": "MONSTROSITY",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 71524389,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
+                       "key": 149
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
 	              {
 				       "user": "plimbus",
 				       "link": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
@@ -3839,43 +3853,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Yu8-k9KgFZk",
                        "key": 188
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Freddy3",
-				       "link": "https://www.youtube.com/watch?v=PVF9TI7M0O4",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "piesy",
-				       "link": "https://www.youtube.com/watch?v=KzFclgmGaxs",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vink",
-				       "link": "https://www.youtube.com/watch?v=TOh0RVTvwpI",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://youtu.be/3ItCZB1nQWI?si=DiCmpvq4usAe1x5a",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Phobos",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 19759411,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=ys3scdKqYIU",
-                       "key": 189
                 },
         /*=================================================================================*/
 
