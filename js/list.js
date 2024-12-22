@@ -112,7 +112,7 @@ const d = {
 			       },
 		{
 				       "user": "stonerchick",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "link": "https://www.youtube.com/watch?v=o5Pm2ANK5GE",
 				       "percent": 50,
 				       "hz": ""
 			       },
@@ -1539,6 +1539,20 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
+
+                       ],
+                       "name": "Nightshade",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 83107375,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/3ZwGffDHwhI?si=T25jSIf9xyjmVT4e",
+                       "key": 79
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
               {
 				       "user": "piesy",
 				       "link": "https://www.youtube.com/watch?v=CpN90ymRnuw",
@@ -1693,6 +1707,12 @@ const d = {
               {
 				       "user": "plimbus",
 				       "link": "https://www.youtube.com/watch?v=BrEFZtgkT20",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	{
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/77eOxc9pK-U?si=jtxUuELdnHBANqSq",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -3883,43 +3903,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=nY_vzRNweag",
                        "key": 195
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Freddy3",
-				       "link": "https://www.youtube.com/watch?v=XApyR2o2sxg",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "piesy",
-				       "link": "https://www.youtube.com/watch?v=Faklf8wsxZ4",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=WheOjvGAJic",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vones",
-				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-				       "percent": 31,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Blade of Justice",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 35448603,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=MbJbIP1fYME",
-                       "key": 196
                 },
         /*=================================================================================*/
 
