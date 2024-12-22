@@ -1489,6 +1489,20 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
+
+                       ],
+                       "name": "Insane Techniques",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 80529928,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
+                       "key": 77
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
               			{
 				       "user": "plimbus",
 				       "link": "https://youtu.be/setLrwJYAhI?si=VT9fFPGqRX6FWfZG",
@@ -3844,20 +3858,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/3z4NkqOS4KA",
                        "key": 187
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Caution",
-                       "author": "stonerchick",
-                       "more": "none",
-                       "id": 62759650,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/Yu8-k9KgFZk",
-                       "key": 188
                 },
         /*=================================================================================*/
 
