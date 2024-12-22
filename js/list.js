@@ -215,6 +215,20 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
+			       
+                       ],
+                       "name": "shimmer",
+                       "author": "clover",
+                       "more": "none",
+                       "id": 94156085,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=LAPbLZGc4xs",
+                       "key": 11
+                },
+        /*=================================================================================*/
+	{
+                       "vids": [
               {
 				       "user": "piesy",
 				       "link": "https://youtu.be/ImtNMy1LYEo",
