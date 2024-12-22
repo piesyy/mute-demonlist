@@ -3367,6 +3367,20 @@ const d = {
 			"vids": [
 
                        ],
+                       "name": "Abandoned Planet",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 46249401,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
+                       "key": 165
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
                        "name": "Microsoft DriveThru",
                        "author": "plimbus",
                        "more": "none",
@@ -3862,25 +3876,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/obA3tAMCIMU?si=CEPh_pOEKJXITmDw",
                        "key": 191
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Vink",
-				       "link": "https://www.youtube.com/watch?v=r64LtzJxhn8",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "EXPLICIT",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 74028410,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=TrIIeeB23no",
-                       "key": 192
                 },
         /*=================================================================================*/
 
