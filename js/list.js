@@ -429,7 +429,7 @@ const d = {
 				       "hz": ""
 			       },
 		{
-				       "user": "Derpspace",
+				       "user": "p0isoned",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
 				       "percent": 52,
 				       "hz": ""
@@ -565,9 +565,9 @@ const d = {
 	{
                        "vids": [
               {
-				       "user": "Derpspace",
-				       "link": "https://youtu.be/MDA0anfTdR8?si=u9q_aCUElK-ugLxm",
-				       "percent": 88,
+				       "user": "p0isoned",
+				       "link": "https://www.youtube.com/watch?v=_USdcRAdhk0",
+				       "percent": 100,
 				       "hz": ""
 			       },
               {
@@ -788,7 +788,7 @@ const d = {
 				       "hz": ""
 			       },
               {
-				       "user": "Derpspace",
+				       "user": "p0isoned",
 				       "link": "https://www.youtube.com/watch?v=ZaaZl9FbK7I",
 				       "percent": 31,
 				       "hz": ""
@@ -893,7 +893,7 @@ const d = {
 			       },
                        ],
                        "name": "of Ambrosia",
-                       "author": "Derpspace",
+                       "author": "p0isoned",
                        "more": "none",
                        "id": 81583127,
                        "pass": "",
@@ -1128,7 +1128,7 @@ const d = {
 				       "hz": ""
 			       },
               {
-				       "user": "Derpspace",
+				       "user": "p0isoned",
 				       "link": "https://www.youtube.com/watch?v=mKeTYG5gOGs",
 				       "percent": 51,
 				       "hz": ""
@@ -2614,7 +2614,7 @@ const d = {
 		{
 			"vids": [
 	              {
-				       "user": "Derpspace",
+				       "user": "p0isoned",
 				       "link": "https://www.youtube.com/watch?v=Ly6Yi4LcOSA",
 				       "percent": 80,
 				       "hz": ""
