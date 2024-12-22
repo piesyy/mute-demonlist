@@ -1997,6 +1997,20 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
+
+                       ],
+                       "name": "Tempered Steel",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 59270436,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
+                       "key": 100
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
 	              {
 				       "user": "plimbus",
 				       "link": "https://www.youtube.com/watch?v=setLrwJYAhI",
@@ -3862,20 +3876,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=ys3scdKqYIU",
                        "key": 189
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Showdown",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 93799148,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=CEPh_pOEKJXITmDw",
-                       "key": 190
                 },
         /*=================================================================================*/
 
