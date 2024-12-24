@@ -3290,7 +3290,12 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
+			{
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Breakout Redux",
                        "author": "Freddy3",
@@ -3497,6 +3502,20 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=2AGpXv8pzsw",
+                       "key": 178
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "New Record",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 76760593,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
                        "key": 178
                 },
         /*=================================================================================*/
@@ -3840,25 +3859,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/46TfuosSIOM",
                        "key": 196
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "JT",
-				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-				       "percent": 46,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Falcon16",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 60289382,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=SnAbAfgsbVg",
-                       "key": 197
                 },
         /*=================================================================================*/
 
