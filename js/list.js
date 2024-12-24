@@ -2747,6 +2747,20 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
+
+                       ],
+                       "name": "ULTRA VIOLET",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 88292178,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
+                       "key": 139
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
 	              {
 				       "user": "stonerchick",
 				       "link": "https://youtu.be/AfRxodyVF_c?si=zGsKtRBklGQ98Cwo",
@@ -3844,20 +3858,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=hDphB1mL22w",
                        "key": 198
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Dimension Breaker",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 55539300,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/3z4NkqOS4KA",
-                       "key": 199
                 },
         /*=================================================================================*/
 
