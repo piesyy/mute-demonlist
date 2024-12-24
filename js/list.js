@@ -3861,25 +3861,6 @@ const d = {
                        "key": 197
                 },
         /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "piesy",
-				       "link": "https://youtu.be/E2oOisSqcAg?si=PM_DRw1rHd4B-73s",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "VendetTa",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 47797723,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=hDphB1mL22w",
-                       "key": 198
-                },
-        /*=================================================================================*/
 
 	],
 	"version": [
