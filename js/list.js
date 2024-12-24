@@ -3632,6 +3632,20 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
+
+                       ],
+                       "name": "Zinhwa",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 93505324,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+                       "key": 182
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
 	              {
 				       "user": "plimbus",
 				       "link": "https://youtu.be/O9Tnh8oE_ds",
@@ -3823,37 +3837,6 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Ch-kMgGMkuk",
                        "key": 194
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "piesy",
-				       "link": "https://youtu.be/WXPcFUIh6dE?si=vYM9tXV278FEVed8",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://youtu.be/mCZOZyyU7ao?si=utmooJsKcFPAV6E4",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Freddy3",
-				       "link": "https://www.youtube.com/watch?v=pbEDLz97DfU",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Fusion Z",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 59933468,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=H2RBovHqtYo",
-                       "key": 195
                 },
         /*=================================================================================*/
 
