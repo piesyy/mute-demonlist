@@ -2998,6 +2998,12 @@ const d = {
 				       "hz": ""
 			       },
 	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
 				       "user": "Vink",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
 				       "percent": 72,
@@ -3265,6 +3271,20 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
+                       "key": 166
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Vivacious",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 76997619,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
                        "key": 166
                 },
         /*=================================================================================*/
