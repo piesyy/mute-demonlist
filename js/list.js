@@ -199,7 +199,7 @@ const d = {
               {
 				       "user": "Vink",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 53,
+				       "percent": 73,
 				       "hz": ""
 			       },
                        ],
@@ -2844,5 +2844,6 @@ const d = {
 };
 
 const list = d.list;const version = d.version;
+
 
 
