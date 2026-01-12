@@ -223,7 +223,7 @@ const d = {
                        "id": 95767653,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=4TQj5yKPT6w",
+                       "verificationVid": "https://youtu.be/9F7Z6vqOzHk?si=VkE3oUZSMwAme9cA",
                        "key": 12
                 },
         /*=================================================================================*/
@@ -237,7 +237,7 @@ const d = {
                        "id": 69289606,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/9F7Z6vqOzHk?si=VkE3oUZSMwAme9cA",
+                       "verificationVid": "https://www.youtube.com/watch?v=4TQj5yKPT6w",
                        "key": 13
                 },
         /*=================================================================================*/
@@ -2844,4 +2844,5 @@ const d = {
 };
 
 const list = d.list;const version = d.version;
+
 
