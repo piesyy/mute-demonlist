@@ -3,6 +3,39 @@ const d = {
 	/*=================================================================================*/
 		{
                        "vids": [
+
+                       ],
+                       "name": "Blooming Blossoms",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 130293163,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/GU-qfLRoDMo?si=VWhRCQ_aeJIZijYe",
+                       "key": 0
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+			{
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=s6erfR21x2U&feature=youtu.be",
+				       "percent": 91,
+				       "hz": ""
+				},
+                       ],
+                       "name": "Tartarus",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 59075347,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/n1_3JED1Jh8?si=jtJkCan3G16guI1C",
+                       "key": 1
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
 			       {
 				       "user": "piesy",
 				       "link": "https://youtu.be/0XqRpAlbA34?si=x_OqPGpJAOeWjKU3",
@@ -29,7 +62,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=3uwT6-qFELY",
-                       "key": 0
+                       "key": 2
                 },
         /*=================================================================================*/
 	{
@@ -43,7 +76,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Xyu39_GSat4?si=UXi9luqNx1NDN1jk",
-                       "key": 1
+                       "key": 3
                 },
         /*=================================================================================*/
 	{
@@ -57,7 +90,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/2yanh8rXUp0",
-                       "key": 2
+                       "key": 4
                 },
         /*=================================================================================*/
 	{
@@ -71,7 +104,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/qxEXObQ0TXQ?si=BoIxKNPiAWCe6xhR",
-                       "key": 3
+                       "key": 5
                 },
         /*=================================================================================*/
 	{
@@ -85,7 +118,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/FD68RUHE23w?si=R4CnK9cDphkN34Ei",
-                       "key": 4
+                       "key": 6
                 },
         /*=================================================================================*/
 	{
@@ -99,7 +132,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=ohaUYFO5FDY",
-                       "key": 5
+                       "key": 7
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+              
+                       ],
+                       "name": "Shukketsu",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 75286957,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Gt0d8GZDZpg?si=kLFn40kkqj4aSY1Q",
+                       "key": 8
                 },
         /*=================================================================================*/
 	{
@@ -113,7 +160,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=zBhDazSr9gw",
-                       "key": 6
+                       "key": 9
                 },
         /*=================================================================================*/
 	{
@@ -144,7 +191,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Pl6SfHXDh9A",
-                       "key": 7
+                       "key": 10
                 },
         /*=================================================================================*/
         {
@@ -163,7 +210,35 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=DqvjjIRlSus",
-                       "key": 8
+                       "key": 11
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+              
+                       ],
+                       "name": "Widestep",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 95767653,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=4TQj5yKPT6w",
+                       "key": 12
+                },
+        /*=================================================================================*/
+				{
+                       "vids": [
+              
+                       ],
+                       "name": "Frost Spirit",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 69289606,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/9F7Z6vqOzHk?si=VkE3oUZSMwAme9cA",
+                       "key": 13
                 },
         /*=================================================================================*/
 	{
@@ -177,7 +252,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=bEqDw8XC0js",
-                       "key": 9
+                       "key": 14
                 },
         /*=================================================================================*/
 	{
@@ -191,7 +266,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=HFUV_c0HHtw",
-                       "key": 10
+                       "key": 15
                 },
         /*=================================================================================*/
 	{
@@ -199,6 +274,12 @@ const d = {
               {
 				       "user": "piesy",
 				       "link": "https://www.youtube.com/watch?v=yPFy0g2mx9c",
+				       "percent": 100,
+				       "hz": ""
+			       },
+						                 {
+				       "user": "bulbazorio",
+				       "link": "https://www.youtube.com/watch?v=EdIAA7zXhVc&pp=0gcJCU0KAYcqIYzv",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -210,7 +291,35 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/2LV7MJMoVBU?si=9R_It9G2K9Y_zSmk",
-                       "key": 11
+                       "key": 16
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+			       
+                       ],
+                       "name": "Instinct (KRAAAAAAAAAAAAAAAZY)",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 94043690,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/GMYcYQ4LFdA?si=vnO5CsV-ztrvio9x",
+                       "key": 17
+                },
+        /*=================================================================================*/
+				{
+                       "vids": [
+			       
+                       ],
+                       "name": "Sky Shredder",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 88136707,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/zscUf1omMaM?si=39MD5yBkmN5AsFUt",
+                       "key": 18
                 },
         /*=================================================================================*/
 	{
@@ -224,12 +333,23 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/uzYsRGqjhmE?si=cvDxNcumqvmdxa0F",
-                       "key": 12
+                       "key": 19
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-			       
+			       {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=QCuh_rLwTQY",
+				       "percent": 100,
+				       "hz": ""
+			       },
+						   			       {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=UkRXIOdpOkM",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "shimmer",
                        "author": "clover",
@@ -238,7 +358,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=LAPbLZGc4xs",
-                       "key": 13
+                       "key": 20
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+			       
+                       ],
+                       "name": "Dry Out Copyable 2",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 106522770,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/ri3PDb_vzOk?si=hy90zf4LFguxE8rc",
+                       "key": 21
                 },
         /*=================================================================================*/
 	{
@@ -246,6 +380,12 @@ const d = {
               {
 				       "user": "piesy",
 				       "link": "https://youtu.be/ImtNMy1LYEo",
+				       "percent": 100,
+				       "hz": ""
+			       },
+			    {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=M7BNU6_DEpQ",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -263,7 +403,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=GSwQ_rV_T6s",
-                       "key": 14
+                       "key": 22
                 },
         /*=================================================================================*/
 	{
@@ -271,6 +411,12 @@ const d = {
               	{
 				       "user": "Vink",
 				       "link": "https://www.youtube.com/watch?v=AwIbXBVuaZE",
+				       "percent": 100,
+				       "hz": ""
+			       },
+						                 	{
+				       "user": "bulbazorio",
+				       "link": "https://youtu.be/WwdazEjANZI?si=6OxIhuQqBzVhZMM6",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -288,21 +434,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=NdMosc16d4w",
-                       "key": 15
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
-
-                       ],
-                       "name": "RUST",
-                       "author": "bulbazorio",
-                       "more": "none",
-                       "id": 71912451,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/InHRHxTrAjI?si=SlOCJSGqjuNvh-El",
-                       "key": 16
+                       "key": 23
                 },
         /*=================================================================================*/
 	{
@@ -316,7 +448,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=elZcquhwJkg",
-                       "key": 17
+                       "key": 24
                 },
         /*=================================================================================*/
 	{
@@ -330,7 +462,82 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=u9reFn4E4uQ",
-                       "key": 18
+                       "key": 25
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+
+                       ],
+                       "name": "ta1LSD0ll",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 115151904,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=jSkMfF2odiQ",
+                       "key": 26
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=N_3ZLfwEIdg",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "RUST",
+                       "author": "bulbazorio",
+                       "more": "none",
+                       "id": 71912451,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/InHRHxTrAjI?si=SlOCJSGqjuNvh-El",
+                       "key": 27
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+
+                       ],
+                       "name": "Call Me Maybe",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 80178903,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=b8Ay_WbP9kg",
+                       "key": 28
+                },
+        /*=================================================================================*/
+				{
+                       "vids": [
+
+                       ],
+                       "name": "Lucid Nightmares",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 52310333,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=tivRz6dmR_8",
+                       "key": 29
+                },
+        /*=================================================================================*/
+					{
+                       "vids": [
+
+                       ],
+                       "name": "Coral Cave",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 90891227,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=fmINkK_3nZA",
+                       "key": 30
                 },
         /*=================================================================================*/
 	{
@@ -349,7 +556,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=KvA4AtTTQ1o",
-                       "key": 19
+                       "key": 31
+                },
+        /*=================================================================================*/
+					{
+                       "vids": [
+              
+                       ],
+                       "name": "Cobwebs",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 82172844,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=47olgNT_NJI&pp=0gcJCU0KAYcqIYzv",
+                       "key": 32
                 },
         /*=================================================================================*/
 	{
@@ -368,15 +589,29 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=f1zQNc1Qjv8",
-                       "key": 20
+                       "key": 33
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+						   
+                       ],
+                       "name": "The Rupture",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 57828784,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/584RIjPpixQ?si=kmQC8rGPi3py3Z4f",
+                       "key": 34
                 },
         /*=================================================================================*/
 	{
                        "vids": [
               {
 				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 48,
+				       "link": "https://www.youtube.com/watch?v=tPER_sC92Zc",
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
@@ -387,7 +622,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/xbfGYxFPqEk?si=nWtECFKVL-PDoNea",
-                       "key": 21
+                       "key": 35
                 },
         /*=================================================================================*/
 	{
@@ -395,6 +630,12 @@ const d = {
               	{
 				       "user": "piesy",
 				       "link": "https://youtu.be/n9BWovRVWJY?si=yuY1wpamdrjD4j82",
+				       "percent": 100,
+				       "hz": ""
+			       },
+						                 	{
+				       "user": "bulbazorio",
+				       "link": "https://www.youtube.com/watch?v=2zAoz4XoAvU",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -406,15 +647,15 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=tGAHgpiwPpo",
-                       "key": 22
+                       "key": 36
                 },
         /*=================================================================================*/
 	{
                        "vids": [
 	              {
 				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 71,
+				       "link": "https://youtu.be/gyutuP7w16c?si=4NSSEI5yz2Thl3N7",
+				       "percent": 100,
 				       "hz": ""
 			       },
               {
@@ -431,7 +672,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=xw2gNmM1VgQ",
-                       "key": 23
+                       "key": 37
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+
+                       ],
+                       "name": "Escape Room",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 90420966,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=aMaP7f6Hz9A",
+                       "key": 38
                 },
         /*=================================================================================*/
 	{
@@ -445,7 +700,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=6L3i1vrZ4F8",
-                       "key": 24
+                       "key": 39
                 },
         /*=================================================================================*/
 	{
@@ -459,7 +714,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Jh7g29HtdxM?si=m4oCrBl1qXUV0N4E",
-                       "key": 25
+                       "key": 40
                 },
         /*=================================================================================*/
 	{
@@ -476,12 +731,6 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
-		{
-				       "user": "p0isoned",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 52,
-				       "hz": ""
-			       },
                        ],
                        "name": "CITRA",
                        "author": "Vink",
@@ -490,7 +739,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Rok2B0nsWlI",
-                       "key": 26
+                       "key": 41
                 },
         /*=================================================================================*/
 	{
@@ -504,7 +753,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/H6VorW5Pd2A?si=autFN78OwLLPxXY6",
-                       "key": 27
+                       "key": 42
                 },
         /*=================================================================================*/
 	{
@@ -518,7 +767,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=C0ENmsMBr4Q",
-                       "key": 28
+                       "key": 43
                 },
         /*=================================================================================*/
 	{
@@ -532,7 +781,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/sDTwXqLt3go?si=lXDDpgksiHk24v_j",
-                       "key": 29
+                       "key": 44
                 },
         /*=================================================================================*/
 	{
@@ -546,7 +795,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=HzVP8OPh4vU",
-                       "key": 30
+                       "key": 45
                 },
         /*=================================================================================*/
 	{
@@ -560,7 +809,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/jIO1tMOsDl0?si=kCuCbX6PhhoiENO2",
-                       "key": 31
+                       "key": 46
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+
+                       ],
+                       "name": "Sank",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 112351854,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=BbLofPjSMeA",
+                       "key": 47
                 },
         /*=================================================================================*/
 	{
@@ -574,7 +837,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/2UG_ufPlIUY?si=VbPNypXuK2utmumc",
-                       "key": 32
+                       "key": 48
                 },
         /*=================================================================================*/
 	{
@@ -593,7 +856,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=2m11drD3n6c",
-                       "key": 33
+                       "key": 49
                 },
         /*=================================================================================*/
 	{
@@ -607,17 +870,11 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/r5CUJA-obwc?si=j_PJzGyLHKepb_MQ",
-                       "key": 34
+                       "key": 50
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "p0isoned",
-				       "link": "https://www.youtube.com/watch?v=_USdcRAdhk0",
-				       "percent": 100,
-				       "hz": ""
-			       },
 	 {
 				       "user": "bulbazorio",
 				       "link": "https://youtu.be/L2TA403xOvw?si=rQNzV0kACObwfQNR",
@@ -644,7 +901,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=DF9v0zxs5FQ",
-                       "key": 35
+                       "key": 51
                 },
         /*=================================================================================*/
 	{
@@ -663,7 +920,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=LDV9GUhqsow",
-                       "key": 36
+                       "key": 52
                 },
         /*=================================================================================*/
 	{
@@ -677,7 +934,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Fqx7Wn_WzN4?si=xMI5WXXl3wAZ_1yI",
-                       "key": 37
+                       "key": 53
                 },
         /*=================================================================================*/
 	{
@@ -691,7 +948,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=SS0qsZ2Bk5k",
-                       "key": 38
+                       "key": 54
                 },
         /*=================================================================================*/
 	{
@@ -705,7 +962,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/ydnc-JjLZw8?si=dC1g458qP93EwSCH",
-                       "key": 39
+                       "key": 55
                 },
         /*=================================================================================*/
 	{
@@ -719,7 +976,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/qpZv45Cud9I?si=eCEaJLvPWEQevIsu",
-                       "key": 40
+                       "key": 56
                 },
         /*=================================================================================*/
 	{
@@ -733,7 +990,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=zrqZmPbsxVA",
-                       "key": 41
+                       "key": 57
                 },
         /*=================================================================================*/
 	{
@@ -764,7 +1021,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=sMz6FvjAkuE",
-                       "key": 42
+                       "key": 58
                 },
         /*=================================================================================*/
 	{
@@ -778,7 +1035,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=cyNlAH6ANWE",
-                       "key": 43
+                       "key": 59
                 },
         /*=================================================================================*/
 	{
@@ -786,6 +1043,12 @@ const d = {
               {
 				       "user": "plimbus",
 				       "link": "https://www.youtube.com/watch?v=kquGPLR6dsE",
+				       "percent": 100,
+				       "hz": ""
+			       },
+				              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=YK2wbxHcYnc",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -797,7 +1060,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=vQS-VWaucXM",
-                       "key": 44
+                       "key": 60
                 },
         /*=================================================================================*/
 	{
@@ -816,7 +1079,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Y3XcHlYwMGA",
-                       "key": 45
+                       "key": 61
                 },
         /*=================================================================================*/
 	{
@@ -841,7 +1104,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=BfjpvKXizCI",
-                       "key": 46
+                       "key": 62
                 },
         /*=================================================================================*/
 	{
@@ -852,12 +1115,6 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
-              {
-				       "user": "p0isoned",
-				       "link": "https://www.youtube.com/watch?v=ZaaZl9FbK7I",
-				       "percent": 31,
-				       "hz": ""
-			       },
                        ],
                        "name": "Visible Ray ",
                        "author": "piesy",
@@ -866,7 +1123,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=-zShTTVLXII",
-                       "key": 47
+                       "key": 63
                 },
         /*=================================================================================*/
 	{
@@ -903,7 +1160,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=zxMhYCfzQN0",
-                       "key": 48
+                       "key": 64
                 },
         /*=================================================================================*/
 	{
@@ -917,21 +1174,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=lVbQN1Z8ONY",
-                       "key": 49
+                       "key": 65
                 },
         /*=================================================================================*/
 	{
                        "vids": [
 
                        ],
-                       "name": "Shutdown",
+                       "name": "Shutdown 67 67 67 67 67 67 67 67 67",
                        "author": "piesy",
                        "more": "none",
                        "id": 78164953,
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=LEm__t53OPY",
-                       "key": 50
+                       "key": 66
                 },
         /*=================================================================================*/
 	{
@@ -945,40 +1202,35 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/DeSbglY9rL4?si=20mIP95yHwfav49a",
-                       "key": 51
+                       "key": 67
                 },
         /*=================================================================================*/
 	{
                        "vids": [
 
                        ],
-                       "name": "Requiem",
+                       "name": "Requiem WEED NUMBER",
                        "author": "Vones",
                        "more": "none",
                        "id": 52303420,
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/XvHn8WSz3zw?si=zVxgufQ9yKu6haC9",
-                       "key": 52
+                       "key": 68
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-              {
-				       "user": "Vink",
-				       "link": "https://youtu.be/M4TZdTLN3eM?si=GdBD7GEsxE92RIpb",
-				       "percent": 100,
-				       "hz": ""
-			       },
+
                        ],
                        "name": "of Ambrosia",
-                       "author": "p0isoned",
+                       "author": "Vink",
                        "more": "none",
                        "id": 81583127,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=fj36QQQG2uk",
-                       "key": 53
+                       "verificationVid": "https://youtu.be/M4TZdTLN3eM?si=GdBD7GEsxE92RIpb",
+                       "key": 69
                 },
         /*=================================================================================*/
 	{
@@ -997,7 +1249,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=cQ86tOUv75Q",
-                       "key": 54
+                       "key": 70
                 },
         /*=================================================================================*/
 	{
@@ -1011,7 +1263,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=b5wj9CnGkTk",
-                       "key": 55
+                       "key": 71
                 },
         /*=================================================================================*/
 	{
@@ -1025,7 +1277,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/y_UN8LclIDo?si=r0jANX7aSiQDvBmV",
-                       "key": 56
+                       "key": 72
                 },
         /*=================================================================================*/
 	{
@@ -1044,12 +1296,17 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/AcxOFTiSL_k?si=6edJHYDJ_jWCFwEy",
-                       "key": 57
+                       "key": 73
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-
+              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=hexxdCZvTXM",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Cybernetic Crescent",
                        "author": "piesy",
@@ -1058,7 +1315,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/_A1vnKOmVMM?si=FKuSmxj_NKV0_N2L",
-                       "key": 58
+                       "key": 74
                 },
         /*=================================================================================*/
 	{
@@ -1072,7 +1329,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/TrIIeeB23no?si=Ajf8Xr-PM7bBKjZh",
-                       "key": 59
+                       "key": 75
                 },
         /*=================================================================================*/
 	{
@@ -1103,7 +1360,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/U_1oO0BuGpA?si=Mzaq7DYiTNae_WX-",
-                       "key": 60
+                       "key": 76
                 },
         /*=================================================================================*/
 	{
@@ -1117,7 +1374,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/0Jmdcml65X8?si=D6e450RC9n2-OSIv",
-                       "key": 61
+                       "key": 77
                 },
         /*=================================================================================*/
 	{
@@ -1131,7 +1388,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Yb2g83OEn5A?si=CHQuYKF_2Abe6ZCy",
-                       "key": 62
+                       "key": 78
                 },
         /*=================================================================================*/
 	{
@@ -1145,7 +1402,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/58RB1SOAaps?si=vCqsc3MjRJfJuyWl",
-                       "key": 63
+                       "key": 79
                 },
         /*=================================================================================*/
 		{
@@ -1164,7 +1421,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=gZ55dr5k9yA",
-                       "key": 64
+                       "key": 80
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+
+                       ],
+                       "name": "Necromancer",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 53443974,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/tqEJdHFn9oE?si=m9sHvMOWWO1FYa1E",
+                       "key": 81
                 },
         /*=================================================================================*/
 	{
@@ -1189,7 +1460,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/W6WGa9cF0x4?si=-OUy3ID3g2Sliull",
-                       "key": 65
+                       "key": 82
                 },
         /*=================================================================================*/
 	{
@@ -1206,12 +1477,6 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
-              {
-				       "user": "p0isoned",
-				       "link": "https://www.youtube.com/watch?v=mKeTYG5gOGs",
-				       "percent": 51,
-				       "hz": ""
-			       },
                        ],
                        "name": "Sonic Wave",
                        "author": "piesy",
@@ -1220,7 +1485,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/cVby99wrFZA?si=itv1Kmitc-1GrkT-",
-                       "key": 66
+                       "key": 83
                 },
         /*=================================================================================*/
 	{
@@ -1234,7 +1499,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/hpYUUTX9mtY?si=UIssG1teIPEh_e6G",
-                       "key": 67
+                       "key": 84
                 },
         /*=================================================================================*/
 	{
@@ -1248,7 +1513,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/ydbcCl2ZQ44?si=U5jxvwWMpLqGQaqT",
-                       "key": 68
+                       "key": 85
                 },
         /*=================================================================================*/	
 		{
@@ -1267,7 +1532,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=sV5DCcDundg",
-                       "key": 69
+                       "key": 86
+                },
+        /*=================================================================================*/	
+				{
+                       "vids": [
+
+                       ],
+                       "name": "The Fog",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 114867361,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=UxicdxCMQvU",
+                       "key": 87
                 },
         /*=================================================================================*/	
 		{
@@ -1292,7 +1571,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/sQOpvueWoDA?si=i87wwu8_AcxNTnN7",
-                       "key": 70
+                       "key": 88
                 },
         /*=================================================================================*/	
 		{
@@ -1306,7 +1585,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-                       "key": 71
+                       "key": 89
                 },
         /*=================================================================================*/
 		{
@@ -1320,7 +1599,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/-3JEfUZUXBE?si=M2cnVY0nu6jJ9ibC",
-                       "key": 72
+                       "key": 90
                 },
         /*=================================================================================*/
 		{
@@ -1334,7 +1613,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/TrIIeeB23no?si=DSeJMrBdr976L0I4",
-                       "key": 73
+                       "key": 91
                 },
         /*=================================================================================*/	
 		{
@@ -1348,7 +1627,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/lpLpZiaVuuw?si=UXY9whsfyJ29NCh-",
-                       "key": 74
+                       "key": 92
                 },
         /*=================================================================================*/
 		{
@@ -1367,7 +1646,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=j6MSVOBpGFQ",
-                       "key": 75
+                       "key": 93
                 },
         /*=================================================================================*/
 		{
@@ -1386,7 +1665,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=mnXjXuQUGvk",
-                       "key": 76
+                       "key": 94
                 },
         /*=================================================================================*/
 		{
@@ -1417,7 +1696,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=7-NyopAh3p0",
-                       "key": 77
+                       "key": 95
                 },
         /*=================================================================================*/
 		{
@@ -1436,7 +1715,26 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=51lOAql1Mks",
-                       "key": 78
+                       "key": 96
+                },
+        /*=================================================================================*/
+				{
+			"vids": [
+              {
+				       "user": "Freddy3",
+				       "link": "https://www.youtube.com/watch?v=0FauTz-ujqc",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "MISFIRE",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 88244926,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=9L8uiip1tW8",
+                       "key": 97
                 },
         /*=================================================================================*/
 		{
@@ -1461,12 +1759,17 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=fZ_jECOpcY0",
-                       "key": 79
+                       "key": 98
                 },
         /*=================================================================================*/
 	{
                        "vids": [
-
+              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=haXnY7aaDOY",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Loochiverse",
                        "author": "plimbus",
@@ -1475,7 +1778,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/rWtc8DqQbe4?si=0aPwwJ1GTNk2rFBB",
-                       "key": 80
+                       "key": 99
                 },
         /*=================================================================================*/
 		{
@@ -1489,7 +1792,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-                       "key": 81
+                       "key": 100
                 },
         /*=================================================================================*/
 		{
@@ -1503,7 +1806,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
-                       "key": 82
+                       "key": 101
                 },
         /*=================================================================================*/
 		{
@@ -1528,7 +1831,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Bc43mo8Y1XE?si=Y3qDhgk5PdymKNk-",
-                       "key": 83
+                       "key": 102
                 },
         /*=================================================================================*/
 		{
@@ -1542,7 +1845,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Fl6D23SE948",
-                       "key": 84
+                       "key": 103
                 },
         /*=================================================================================*/
 		{
@@ -1567,7 +1870,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/LtfJwHQiSfY?si=glArgV83kiGamWRu",
-                       "key": 85
+                       "key": 104
                 },
         /*=================================================================================*/
 		{
@@ -1581,7 +1884,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/3ZwGffDHwhI?si=T25jSIf9xyjmVT4e",
-                       "key": 86
+                       "key": 105
                 },
         /*=================================================================================*/
 		{
@@ -1612,7 +1915,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/jK077amnDOU?si=hb1Eot3oqM6wAIP2",
-                       "key": 87
+                       "key": 106
                 },
         /*=================================================================================*/
 		{
@@ -1643,7 +1946,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/ahPPWpkKEVY?si=Q06DhvKS40NzWyBf",
-                       "key": 88
+                       "key": 107
                 },
         /*=================================================================================*/
 		{
@@ -1662,7 +1965,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/pONPVFdDwR0?si=P8O1y9n2-Nize5Lq",
-                       "key": 89
+                       "key": 108
                 },
         /*=================================================================================*/
 		{
@@ -1687,7 +1990,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=ZuCIwjotIzI",
-                       "key": 90
+                       "key": 109
+                },
+        /*=================================================================================*/
+				{
+			"vids": [
+
+                       ],
+                       "name": "Paroxysm",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 42631377,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=bt1jy3KEzIc",
+                       "key": 110
                 },
         /*=================================================================================*/
 		{
@@ -1718,7 +2035,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=GEja6e_Nahc",
-                       "key": 91
+                       "key": 111
+                },
+        /*=================================================================================*/
+				{
+			"vids": [
+
+                       ],
+                       "name": "Quantum Dynamix",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 79244693,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=SPiOeHt5vgk",
+                       "key": 112
                 },
         /*=================================================================================*/
 		{
@@ -1732,7 +2063,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Kx5WIutkLFI",
-                       "key": 92
+                       "key": 113
+                },
+        /*=================================================================================*/
+				{
+			"vids": [
+
+                       ],
+                       "name": "Come to Daddy",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 115238970,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=cVkx8b7mftM",
+                       "key": 114
                 },
         /*=================================================================================*/
 		{
@@ -1757,7 +2102,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/FbklH71ci3E?si=ssZatHeT019QWtzp",
-                       "key": 93
+                       "key": 115
                 },
         /*=================================================================================*/
 		{
@@ -1776,7 +2121,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=setLrwJYAhI",
-                       "key": 94
+                       "key": 116
                 },
         /*=================================================================================*/
 		{
@@ -1795,7 +2140,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/9UJ8GxQqL90?si=rjBUv0r-_lqo_d3J",
-                       "key": 95
+                       "key": 117
                 },
         /*=================================================================================*/
 		{
@@ -1814,7 +2159,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 96
+                       "key": 118
                 },
         /*=================================================================================*/
 		{
@@ -1828,7 +2173,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 97
+                       "key": 119
                 },
         /*=================================================================================*/
 		{
@@ -1842,7 +2187,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/6c8bprq5xyQ?si=3agdUJ1EywZbbmKs",
-                       "key": 98
+                       "key": 120
                 },
         /*=================================================================================*/
 		{
@@ -1861,7 +2206,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=zzYw37xn8ZY",
-                       "key": 99
+                       "key": 121
                 },
         /*=================================================================================*/
 		{
@@ -1886,7 +2231,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/4mQiftM0FmU?si=u_1wFACpsKRSK6ze",
-                       "key": 100
+                       "key": 122
                 },
         /*=================================================================================*/
 		{
@@ -1917,7 +2262,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Q_AXunN3xcI",
-                       "key": 101
+                       "key": 123
                 },
         /*=================================================================================*/
 		{
@@ -1931,7 +2276,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/NZp6pInMLI4?si=SW0S7N-2_mQfy9Z2",
-                       "key": 102
+                       "key": 124
                 },
         /*=================================================================================*/
 		{
@@ -1986,7 +2331,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/vhPvX1MQTTY?si=xi4C5U1dvLEreqvE",
-                       "key": 103
+                       "key": 125
                 },
         /*=================================================================================*/
 		{
@@ -2003,6 +2348,12 @@ const d = {
 				       "percent": 100,
 				       "hz": ""
 			       },
+		              {
+				       "user": "Freddy3",
+				       "link": "https://www.youtube.com/watch?v=r1SzJWZMf0w",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Omicron",
                        "author": "piesy",
@@ -2011,7 +2362,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/21_zuwjNww4?si=ttog3stqY7o9_E2j",
-                       "key": 104
+                       "key": 126
                 },
         /*=================================================================================*/
 		{
@@ -2025,7 +2376,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
-                       "key": 105
+                       "key": 127
                 },
         /*=================================================================================*/
 		{
@@ -2044,7 +2395,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/lTMyzxnSBjE?si=tQBBd-RfU9lLgMy7",
-                       "key": 106
+                       "key": 128
                 },
         /*=================================================================================*/
 		{
@@ -2058,7 +2409,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-                       "key": 107
+                       "key": 129
                 },
         /*=================================================================================*/
 		{
@@ -2072,7 +2423,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/RpwimQJzrUI?si=4Rrd3zMAd0DUKayD",
-                       "key": 108
+                       "key": 130
                 },
         /*=================================================================================*/
 		{
@@ -2103,7 +2454,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/kG7Cn6mJ_rI?si=iFvTBboeEBpxdkps",
-                       "key": 109
+                       "key": 131
+                },
+        /*=================================================================================*/
+				{
+			"vids": [
+
+                       ],
+                       "name": "Demonicat",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 41058711,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=D_yti7JyNCk",
+                       "key": 132
                 },
         /*=================================================================================*/
 		{
@@ -2128,7 +2493,26 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/fPCFl3-JtQc?si=HM5X52lc4SSHYd8p",
-                       "key": 110
+                       "key": 133
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+{
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=b_szFB65vt0",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Diamond Disco",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 117862884,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/UBQ_fKX0b1o?si=eJtbazn6B3cO4aeT",
+                       "key": 134
                 },
         /*=================================================================================*/
 		{
@@ -2142,7 +2526,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=eflK9j1v96U",
-                       "key": 111
+                       "key": 135
                 },
         /*=================================================================================*/
 		{
@@ -2185,7 +2569,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=A40PomVlK2c",
-                       "key": 112
+                       "key": 136
                 },
         /*=================================================================================*/
 		{
@@ -2204,12 +2588,17 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/js6meyhUVbw?si=U958Z8OE61IKy_6f",
-                       "key": 113
+                       "key": 137
                 },
         /*=================================================================================*/
 		{
 			"vids": [
-            
+            	    {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=kFvspYacq3o",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Timor",
                        "author": "plimbus",
@@ -2218,7 +2607,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/obA3tAMCIMU?si=UgwZSBVT54kINIxR",
-                       "key": 114
+                       "key": 138
                 },
         /*=================================================================================*/
 		{
@@ -2237,7 +2626,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/52_T9SSZc3w?si=EHQiPNgtxtOfl3J1",
-                       "key": 115
+                       "key": 139
                 },
         /*=================================================================================*/
 		{
@@ -2251,7 +2640,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 116
+                       "key": 140
                 },
         /*=================================================================================*/
 		{
@@ -2265,7 +2654,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/js6meyhUVbw?si=DkL_xRYObPyoc6a8",
-                       "key": 117
+                       "key": 141
                 },
         /*=================================================================================*/
 		{
@@ -2284,7 +2673,21 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/P81cn_3wIRc?si=ima5zQobnO2JrHeC",
-                       "key": 118
+                       "key": 142
+                },
+        /*=================================================================================*/
+				{
+			"vids": [
+
+                       ],
+                       "name": "Budding Roses",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 113824520,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=4HjjXiqIwXQ",
+                       "key": 143
                 },
         /*=================================================================================*/
 		{
@@ -2309,7 +2712,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Hb8_FdJgSoM?si=KIky6lU1JwGJkgdH",
-                       "key": 119
+                       "key": 144
                 },
         /*=================================================================================*/
 		{
@@ -2328,7 +2731,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/xuL7BLELkQo?si=SSU_WiOShAUN0kc2",
-                       "key": 120
+                       "key": 145
                 },
         /*=================================================================================*/
 		{
@@ -2359,7 +2762,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/Dn7Q3m9Z7MU?si=bgX5Aquf8TONfu1H",
-                       "key": 121
+                       "key": 146
                 },
         /*=================================================================================*/
 		{
@@ -2379,7 +2782,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/0nfsZcf9Pe4?si=OsAPPJTTvjvxlFuS",
-                       "key": 122
+                       "key": 147
                 },
         /*=================================================================================*/
 		{
@@ -2410,7 +2813,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=_wxjqvewZrY",
-                       "key": 123
+                       "key": 148
                 },
         /*=================================================================================*/
 		{
@@ -2429,1422 +2832,9 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/7jIdgDBm0DM?si=BZKP0r-LfCnxIfs-",
-                       "key": 124
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-			{
-				       "user": "piesy",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Crystal",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 73645039,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 125
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Quaoar (Flosia)",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 73294395,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 126
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "DESOLATE",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 89487717,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 127
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Vones",
-				       "link": "https://youtu.be/ee9WvF_HUDs?si=J9d_VDlT2oLfOreK",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "piesy",
-				       "link": "https://youtu.be/RZWhnT-0Wl8?si=8IaS4V2Eo8tUr_4R",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vink",
-				       "link": "https://youtu.be/kCd0_LTlgf8?si=1L2BWfcw9HJ3zVhO",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/TrIIeeB23no?si=a_mI0kpxuRyUpXg5",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Freddy3",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=Bn9384Xef3o",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "clover",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Rate Demon",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 44860762,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/IIYDlVXcaVI?si=bQ2bQGkSFA4HoRKt",
-                       "key": 128
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Vink",
-				       "link": "https://youtu.be/AWNL8U7okUI?si=Ywl7Pf_Uj6crHjLo",
-				       "percent": 100,
-				       "hz": ""
-			       },
-				{
-				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "distraught",
-                       "author": "stonerchick",
-                       "more": "none",
-                       "id": 55224007,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/gul4xBv7cks?si=ru4Spf_YCflGnZmT",
-                       "key": 129
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Void Wave",
-                       "author": "stonerchick",
-                       "more": "none",
-                       "id": 59620684,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/yHQQorywdY8?si=GxOt275YlWdy5srb",
-                       "key": 130
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Vones",
-				       "link": "https://youtu.be/UrWdXCAp_Ek?si=gEXs4nioN1ZsBEM-",
-				       "percent": 52,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Bausha Vortex",
-                       "author": "stonerchick",
-                       "more": "none",
-                       "id": 30380566,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/_hUPboiG-qw?si=BVOn2r_3gP4zDEqf",
-                       "key": 131
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Ethereal Artifice",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 58252259,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=-A_siTSibqM",
-                       "key": 132
-                },
-        /*=================================================================================*/
-		{
-		
-			"vids": [
-				
-                       ],
-                       "name": "Berserk",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 95327529,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 133
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-				
-                       ],
-                       "name": "Collapse",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 95327529,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 134
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-				
-                       ],
-                       "name": "Phonk Town",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 58252259,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/NqhvqaDXjV8?si=qf-UH3WlVYI89oNl",
-                       "key": 135
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/P3--0rwwEik?si=pavtSfsgysDtLGBO",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Anwar Razlan",
-				       "link": "https://youtu.be/0rrEPyn66CQ?si=euE5oI5Z5ORKlB_G",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://youtu.be/vpM3R-60ONE?si=-oM76f-fGBNs3krM",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Auditory Breaker",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 51791710,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/6efY1prdk28?si=MGdVoFExbkw7-GFl",
-                       "key": 136
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "piesy",
-				       "link": "https://www.youtube.com/watch?v=WYDV_31YsL4",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=5J2FDWRJx7M",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vink",
-				       "link": "https://www.youtube.com/watch?v=XD-MsmIr19E",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=dUj6Ys7cL_Y",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Ziroikabi",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 44773500,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/7zqJQJvVeY4?si=ocGbfNftvPJG5UFN",
-                       "key": 137
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "SECTOR 19",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 76358953,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/TrIIeeB23no?si=w6nl1MZ8aNmcEOFV",
-                       "key": 138
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "lovel",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 101288192,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=G-hcJ6qqdXw",
-                       "key": 139
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "ULTRA VIOLET",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 88292178,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
-                       "key": 140
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "stonerchick",
-				       "link": "https://youtu.be/AfRxodyVF_c?si=zGsKtRBklGQ98Cwo",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Cadrega Mode",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 48981134,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/9MjU2rUiFUQ?si=PCZo3V8EM9EDPzK6",
-                       "key": 141
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Gateway",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 94924286,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
-                       "key": 142
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "p0isoned",
-				       "link": "https://www.youtube.com/watch?v=Ly6Yi4LcOSA",
-				       "percent": 80,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "BuTiTi III",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 57433866,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=O-ZRBzpzo7A",
-                       "key": 143
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Balengu Vortex",
-                       "author": "stonerchick",
-                       "more": "none",
-                       "id": 55385816,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/B9KMJUmQxeU?si=eIWXl6yvDDpVF9Ig",
-                       "key": 144
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "DMG CTRL",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 73733373,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/O9Tnh8oE_ds?si=LIO_o3Fd2VrSS68T",
-                       "key": 145
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "The Hell Zone",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 22259203,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-                       "key": 146
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Vink",
-				       "link": "https://www.youtube.com/watch?v=28nux9uirUw",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Worse Trip",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 78248443,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/F-XC1dkEpdU?si=rLewjlIT2Wn1iTlU",
-                       "key": 147
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Vones",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 49,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Astral Divinity",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 58811846,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=vy-e4ScqE9Q",
-                       "key": 148
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "JT",
-				       "link": "https://youtu.be/bvObypx7roQ?si=grBy6EbkRmMUb77q",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "piesy",
-				       "link": "https://www.youtube.com/watch?v=hyPWWN-Kf9U",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Surge of the Shield",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 61127840,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/Y1QqpKbwAAA?si=O58F1PSF6Bioj_GK",
                        "key": 149
                 },
         /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=FxgH_NY_oU0",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Ziroikapi",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 56827411,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=1wVsEDCbMHM",
-                       "key": 150
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "2 1 1",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 63514295,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=setLrwJYAhI",
-                       "key": 151
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "The Hell World",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 27904579,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-                       "key": 152
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "The Hell Origin",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 36875204,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 153
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "JT",
-				       "link": "https://youtu.be/yAuz3Fr0dEc?si=mdga7zJ07twUsBYO",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vink",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 72,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vones",
-				       "link": "https://youtu.be/9R86vQXkLAc?si=9l4k47u7o45GfhVH",
-				       "percent": 58,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Dolos",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 58417850,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/sj-wr-B4Ae4?si=d1Ezyivs4K-ULQe8",
-                       "key": 154
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Glitched Memories",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 55382704,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=Nbn3g9Lzd9c",
-                       "key": 155
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Koozoo2000",
-				       "link": "https://youtu.be/eKkc8Jyo6AY?si=RheQvvNuTiuLGFeO",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/6i5TxqKd_1E?si=wk7ga2xtZduNKH3g",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://youtu.be/XBYuoInyWQo?si=bDNcD_i1CwcJv4mS",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Audio Expulsion",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 48679353,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/Gg8jZFrcYTQ?si=0hD4ZbyQ32OcVgS7",
-                       "key": 156
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "MONSTROSITY",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 71524389,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
-                       "key": 157
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://youtu.be/aAs8PNhJQao?si=Xu8LVpz2lAGWmZxp",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Anoxysm",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 57430694,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/9jN1OdTWoWI?si=oIFFqZcSRwwH3CfH",
-                       "key": 158
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "piesy",
-				       "link": "https://youtu.be/9AvCHj2sDUk?si=LVXBOiB8fbM4U7XH",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=xFqj6a8sHS4",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "SubSonic",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 33387622,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/F8kM-L5rGIs?si=tK4f5kGQRgTl1mh8",
-                       "key": 159
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "The Hell Field",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 51556877,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-                       "key": 160
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "The Cellar Path",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 85317764,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=iXPJTXxYW_w",
-                       "key": 161
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "piesy",
-				       "link": "https://www.youtube.com/watch?v=oiqvITNqtFA",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=Qu-3W-TNp1U",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Boogie",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 72873416,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=setLrwJYAhI",
-                       "key": 162
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "stonerchick",
-				       "link": "https://youtu.be/HuHcP0W3JVg?si=XiiIX31fwJQJsvZL",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Mujigae",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 38765979,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/NW0XaM3n7y8?si=FN_dKxJz0QZjCMCZ",
-                       "key": 163
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Betrayal of Destiny",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 63482186,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/Y6-iG7Q6Z4A?si=xk5DX69EgrbofLJ2",
-                       "key": 164
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Freddy3",
-				       "link": "https://www.youtube.com/watch?v=JP1ln7Fql3Q",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Shock Therapy",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 57121503,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/XQNcFfgp5iE?si=SWgNYNJwUjBb0ebJ",
-                       "key": 165
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "eternal entropy",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 75766713,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
-                       "key": 166
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "i hate you",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 68323859,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
-                       "key": 167
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Vivacious",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 76997619,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
-                       "key": 168
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-			{
-				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Breakout Redux",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 76997619,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=teJvikigOS8",
-                       "key": 169
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Vones",
-				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-				       "percent": 46,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Low Death",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 60603962,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=tVDyZZDVfLQ",
-                       "key": 170
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Faded Dream",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 86233175,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=cD9tk1FePvo",
-                       "key": 171
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=PmNgWAuxNyE",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "ErebuS",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 65860142,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=_eyl6FzhAxY",
-                       "key": 172
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "ruber cash 22",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 78007735,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 173
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "BBBBBBBBBBBBBBBBBBBB",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 47446042,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/js6meyhUVbw?si=cFdpqbmmwDgHIo-K&t=2529",
-                       "key": 174
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "piesy",
-				       "link": "https://www.youtube.com/watch?v=cYBNjGclB8c",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vink",
-				       "link": "https://www.youtube.com/watch?v=OwZYbKzFAxw",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=375p3sOttcU",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=oVQBU5p4JeM",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Athanatos",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 26133601,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=c83Wf0qcxGQ",
-                       "key": 175
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=25v6CyYRoEQ",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=yQ-2h_gcw1A",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "SPEEDRUN",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 58507437,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=iwYHoPGmnOE",
-                       "key": 176
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Shock Breaker",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 64051003,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=_Y0NPe864Uo",
-                       "key": 177
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Abandoned Planet",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 46249401,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
-                       "key": 178
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Microsoft DriveThru",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 94164875,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
-                       "key": 179
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "memories ",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 83235400,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=2AGpXv8pzsw",
-                       "key": 180
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "New Record",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 76760593,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
-                       "key": 181
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Milo",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 110227780,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
-                       "key": 182
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Endless Dream",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 70484097,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=xQzwkRh_9X4",
-                       "key": 183
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=5nnvC-fKSPE",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Freddy3",
-				       "link": "https://youtu.be/hRswvwSazdM?si=P6B84aPXW7HeJDVc",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Infernal Abyss",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 27379546,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=AYNOPu4pE-A",
-                       "key": 184
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Fabricated Thoughts",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 61151935,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 185
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Curie",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 87816034,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 186
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=GEZd4CdAsS8",
-				       "percent": 100,
-				       "hz": ""
-			       },
-	              {
-				       "user": "Vink",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 84,
-				       "hz": "60"
-			       },
-                       ],
-                       "name": "RASH",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 69507105,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/wMpvghmsXPU?si=BuFjATE9J-sC_vxq",
-                       "key": 187
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Zinhwa",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 93505324,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-                       "key": 188
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/O9Tnh8oE_ds",
-				       "percent": 100,
-				       "hz": ""
-			       },
-			{
-				       "user": "clover",
-				       "link": "https://www.youtube.com/watch?v=-yikSmN4dxA",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Ithacropolis",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 41149984,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/5lcbr2pXQLI",
-                       "key": 189
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=setLrwJYAhI",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Team Z",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 38234257,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=WE_Dh8Bux_s",
-                       "key": 190
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Disaster Dive",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 81280541,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/A3q4Z3dhIy0",
-                       "key": 191
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://www.youtube.com/watch?v=W4QcI1VV3gs",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Mystic",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 35738539,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=1iFY3of-7w0",
-                       "key": 192
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/O9Tnh8oE_ds",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "DARKENED",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 66085306,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/lA--Uh1BlWA?si=x1ECj9XYrjFSmVsJ",
-                       "key": 193
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=CEPh_pOEKJXITmDw",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "EnvY",
-                       "author": "Koozoo2000",
-                       "more": "none",
-                       "id": 45411361,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=mbXLTcuXrls",
-                       "key": 194
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/O9Tnh8oE_ds",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Carnage Mode",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 36107975,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=lp_CEeAHZOA",
-                       "key": 195
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Removed Submission",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 52113279,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/u_Uk7IlVrO0",
-                       "key": 196
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "The Hell Inferno",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 60714734,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-                       "key": 197
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "plimbus",
-				       "link": "https://youtu.be/utCLq3QgAU0",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Asmodeus",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 33670767,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=fSsZ4H0T4H4",
-                       "key": 198
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Tenth Circle",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 62592746,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/Ch-kMgGMkuk",
-                       "key": 199
-                },
-        /*=================================================================================*/
-
 	],
 	"version": [
 		1,
@@ -3854,3 +2844,4 @@ const d = {
 };
 
 const list = d.list;const version = d.version;
+
