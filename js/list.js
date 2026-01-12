@@ -69,20 +69,6 @@ const d = {
                        "vids": [
               
                        ],
-                       "name": "The Golden",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 60978746,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/Xyu39_GSat4?si=UXi9luqNx1NDN1jk",
-                       "key": 3
-                },
-        /*=================================================================================*/
-	{
-                       "vids": [
-              
-                       ],
                        "name": "Delta",
                        "author": "piesy",
                        "more": "none",
@@ -90,7 +76,7 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/2yanh8rXUp0",
-                       "key": 4
+                       "key": 3
                 },
         /*=================================================================================*/
 	{
@@ -104,6 +90,20 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/qxEXObQ0TXQ?si=BoIxKNPiAWCe6xhR",
+                       "key": 4
+                },
+        /*=================================================================================*/
+			{
+                       "vids": [
+              
+                       ],
+                       "name": "The Golden",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 60978746,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Xyu39_GSat4?si=UXi9luqNx1NDN1jk",
                        "key": 5
                 },
         /*=================================================================================*/
@@ -2844,6 +2844,7 @@ const d = {
 };
 
 const list = d.list;const version = d.version;
+
 
 
 
