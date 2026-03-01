@@ -3600,24 +3600,6 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=cD9tk1FePvo"
                 },
         /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "stonerchick",
-				       "link": "https://www.youtube.com/watch?v=PmNgWAuxNyE",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "ErebuS",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 65860142,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=_eyl6FzhAxY"
-                },
-        /*=================================================================================*/
 	],
 	"version": [
 		1,
@@ -3631,6 +3613,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
