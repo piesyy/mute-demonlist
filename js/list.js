@@ -977,8 +977,8 @@ const d = {
 	{
                        "vids": [
 		{
-				       "user": "bulbazorio",
-				       "link": "https://youtu.be/LEIdjaVkC0M?si=blDg7UJoQ2RDlGJ6",
+				       "user": "Freddy3",
+				       "link": "https://www.youtube.com/watch?v=sMz6FvjAkuE",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -996,12 +996,12 @@ const d = {
 			       },
                        ],
                        "name": "Dump",
-                       "author": "Freddy3",
+                       "author": "bulbazorio",
                        "more": "none",
                        "id": 89513590,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=sMz6FvjAkuE"
+                       "verificationVid": "https://youtu.be/LEIdjaVkC0M?si=blDg7UJoQ2RDlGJ6"
                 },
         /*=================================================================================*/
 	{
@@ -2574,7 +2574,12 @@ const d = {
         /*=================================================================================*/
 				{
 			"vids": [
-
+						{
+				       "user": "bulbazorio",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "Budding Roses",
                        "author": "Freddy3",
@@ -2670,6 +2675,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
