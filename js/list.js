@@ -192,6 +192,19 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=zBhDazSr9gw"
                 },
         /*=================================================================================*/
+		{
+                       "vids": [
+              
+                       ],
+                       "name": "DISSONANCE",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 108141323,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Jov3rFQj-5A?si=HvgeIsDA13yy9MxV"
+                },
+        /*=================================================================================*/
 	{
                        "vids": [
               {
@@ -240,6 +253,32 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=DqvjjIRlSus"
                 },
         /*=================================================================================*/
+		{
+                       "vids": [
+              
+                       ],
+                       "name": "Frost Spirit",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 69289606,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=4TQj5yKPT6w"
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+              
+                       ],
+                       "name": "Lithium",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 95767653,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/ZKNF6koAt1w?si=7xtfl4TCla-oTF3M"
+                },
+        /*=================================================================================*/
 			{
                        "vids": [
               
@@ -251,19 +290,6 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/9F7Z6vqOzHk?si=VkE3oUZSMwAme9cA"
-                },
-        /*=================================================================================*/
-				{
-                       "vids": [
-              
-                       ],
-                       "name": "Frost Spirit",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 69289606,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=4TQj5yKPT6w"
                 },
         /*=================================================================================*/
 	{
@@ -3569,37 +3595,6 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=teJvikigOS8"
                 },
         /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Vones",
-				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
-				       "percent": 46,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Low Death",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 60603962,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=tVDyZZDVfLQ"
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Faded Dream",
-                       "author": "Freddy3",
-                       "more": "none",
-                       "id": 86233175,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=cD9tk1FePvo"
-                },
-        /*=================================================================================*/
 	],
 	"version": [
 		1,
@@ -3613,6 +3608,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
