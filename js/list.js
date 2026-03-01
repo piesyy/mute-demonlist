@@ -2667,6 +2667,957 @@ const d = {
                        "verificationVid": "https://youtu.be/Dn7Q3m9Z7MU?si=bgX5Aquf8TONfu1H"
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+				{
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+
+                       ],
+                       "name": "lodin da fish washer",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 72164189,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/0nfsZcf9Pe4?si=OsAPPJTTvjvxlFuS"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/xqyvPk6w3a0?si=hGCsQf3d5l0KC8kL",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vones",
+				       "link": "https://www.youtube.com/watch?v=ja0oJsrhMuw",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Belloq",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 55610687,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=_wxjqvewZrY"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/vcH_SbTVKMg?si=At6jG5KkAKq9Thvt",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Glowy",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 37361518,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/7jIdgDBm0DM?si=BZKP0r-LfCnxIfs-"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+			{
+				       "user": "piesy",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Crystal",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 73645039,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Quaoar (Flosia)",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 73294395,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "DESOLATE",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 89487717,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/ee9WvF_HUDs?si=J9d_VDlT2oLfOreK",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/RZWhnT-0Wl8?si=8IaS4V2Eo8tUr_4R",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/kCd0_LTlgf8?si=1L2BWfcw9HJ3zVhO",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/TrIIeeB23no?si=a_mI0kpxuRyUpXg5",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Freddy3",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=Bn9384Xef3o",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "clover",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Rate Demon",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 44860762,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/IIYDlVXcaVI?si=bQ2bQGkSFA4HoRKt"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/AWNL8U7okUI?si=Ywl7Pf_Uj6crHjLo",
+				       "percent": 100,
+				       "hz": ""
+			       },
+				{
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "distraught",
+                       "author": "stonerchick",
+                       "more": "none",
+                       "id": 55224007,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/gul4xBv7cks?si=ru4Spf_YCflGnZmT"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Void Wave",
+                       "author": "stonerchick",
+                       "more": "none",
+                       "id": 59620684,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/yHQQorywdY8?si=GxOt275YlWdy5srb"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/UrWdXCAp_Ek?si=gEXs4nioN1ZsBEM-",
+				       "percent": 52,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Bausha Vortex",
+                       "author": "stonerchick",
+                       "more": "none",
+                       "id": 30380566,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/_hUPboiG-qw?si=BVOn2r_3gP4zDEqf"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Ethereal Artifice",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 58252259,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=-A_siTSibqM"
+                },
+        /*=================================================================================*/
+		{
+		
+			"vids": [
+				
+                       ],
+                       "name": "Berserk",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 95327529,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+				
+                       ],
+                       "name": "Collapse",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 95327529,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+				
+                       ],
+                       "name": "Phonk Town",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 58252259,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/NqhvqaDXjV8?si=qf-UH3WlVYI89oNl"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/P3--0rwwEik?si=pavtSfsgysDtLGBO",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Anwar Razlan",
+				       "link": "https://youtu.be/0rrEPyn66CQ?si=euE5oI5Z5ORKlB_G",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/vpM3R-60ONE?si=-oM76f-fGBNs3krM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Auditory Breaker",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 51791710,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/6efY1prdk28?si=MGdVoFExbkw7-GFl"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=WYDV_31YsL4",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=5J2FDWRJx7M",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=XD-MsmIr19E",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=dUj6Ys7cL_Y",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Ziroikabi",
+                       "author": "Koozoo2000",
+                       "more": "none",
+                       "id": 44773500,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/7zqJQJvVeY4?si=ocGbfNftvPJG5UFN"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "SECTOR 19",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 76358953,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/TrIIeeB23no?si=w6nl1MZ8aNmcEOFV"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "lovel",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 101288192,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=G-hcJ6qqdXw"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "ULTRA VIOLET",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 88292178,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/AfRxodyVF_c?si=zGsKtRBklGQ98Cwo",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Cadrega Mode",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 48981134,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/9MjU2rUiFUQ?si=PCZo3V8EM9EDPzK6"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Gateway",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 94924286,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "p0isoned",
+				       "link": "https://www.youtube.com/watch?v=Ly6Yi4LcOSA",
+				       "percent": 80,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "BuTiTi III",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 57433866,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=O-ZRBzpzo7A"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Balengu Vortex",
+                       "author": "stonerchick",
+                       "more": "none",
+                       "id": 55385816,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/B9KMJUmQxeU?si=eIWXl6yvDDpVF9Ig"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "DMG CTRL",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 73733373,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/O9Tnh8oE_ds?si=LIO_o3Fd2VrSS68T"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "The Hell Zone",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 22259203,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=28nux9uirUw",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Worse Trip",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 78248443,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/F-XC1dkEpdU?si=rLewjlIT2Wn1iTlU"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 49,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Astral Divinity",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 58811846,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=vy-e4ScqE9Q"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "JT",
+				       "link": "https://youtu.be/bvObypx7roQ?si=grBy6EbkRmMUb77q",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=hyPWWN-Kf9U",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Surge of the Shield",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 61127840,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Y1QqpKbwAAA?si=O58F1PSF6Bioj_GK"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=FxgH_NY_oU0",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Ziroikapi",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 56827411,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=1wVsEDCbMHM"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "2 1 1",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 63514295,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=setLrwJYAhI"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "The Hell World",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 27904579,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "The Hell Origin",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 36875204,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "JT",
+				       "link": "https://youtu.be/yAuz3Fr0dEc?si=mdga7zJ07twUsBYO",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 72,
+				       "hz": ""
+			       },
+	              {
+				       "user": "Vones",
+				       "link": "https://youtu.be/9R86vQXkLAc?si=9l4k47u7o45GfhVH",
+				       "percent": 58,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Dolos",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 58417850,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/sj-wr-B4Ae4?si=d1Ezyivs4K-ULQe8"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Glitched Memories",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 55382704,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=Nbn3g9Lzd9c"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Koozoo2000",
+				       "link": "https://youtu.be/eKkc8Jyo6AY?si=RheQvvNuTiuLGFeO",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/6i5TxqKd_1E?si=wk7ga2xtZduNKH3g",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/XBYuoInyWQo?si=bDNcD_i1CwcJv4mS",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Audio Expulsion",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 48679353,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Gg8jZFrcYTQ?si=0hD4ZbyQ32OcVgS7"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "MONSTROSITY",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 71524389,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=O9Tnh8oE_ds",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/aAs8PNhJQao?si=Xu8LVpz2lAGWmZxp",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Anoxysm",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 57430694,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/9jN1OdTWoWI?si=oIFFqZcSRwwH3CfH"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://youtu.be/9AvCHj2sDUk?si=LVXBOiB8fbM4U7XH",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=xFqj6a8sHS4",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "SubSonic",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 33387622,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/F8kM-L5rGIs?si=tK4f5kGQRgTl1mh8"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "The Hell Field",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 51556877,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "The Cellar Path",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 85317764,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=iXPJTXxYW_w"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=oiqvITNqtFA",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=Qu-3W-TNp1U",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Boogie",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 72873416,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=setLrwJYAhI"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://youtu.be/HuHcP0W3JVg?si=XiiIX31fwJQJsvZL",
+				       "percent": 100,
+				       "hz": ""
+			       },
+	              {
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Mujigae",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 38765979,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/NW0XaM3n7y8?si=FN_dKxJz0QZjCMCZ"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Betrayal of Destiny",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 63482186,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Y6-iG7Q6Z4A?si=xk5DX69EgrbofLJ2"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Freddy3",
+				       "link": "https://www.youtube.com/watch?v=JP1ln7Fql3Q",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Shock Therapy",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 57121503,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/XQNcFfgp5iE?si=SWgNYNJwUjBb0ebJ"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "eternal entropy",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 75766713,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "i hate you",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 68323859,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=O9Tnh8oE_ds"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Vivacious",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 76997619,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+			{
+				       "user": "plimbus",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=JlXD3wU7ul-BP2KW",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Breakout Redux",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 76997619,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=teJvikigOS8"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "Vones",
+				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
+				       "percent": 46,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Low Death",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 60603962,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=tVDyZZDVfLQ"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+
+                       ],
+                       "name": "Faded Dream",
+                       "author": "Freddy3",
+                       "more": "none",
+                       "id": 86233175,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=cD9tk1FePvo"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	              {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=PmNgWAuxNyE",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "ErebuS",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 65860142,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=_eyl6FzhAxY"
+                },
+        /*=================================================================================*/
 	],
 	"version": [
 		1,
@@ -2680,6 +3631,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
