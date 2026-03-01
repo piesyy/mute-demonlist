@@ -506,10 +506,12 @@ const d = {
         /*=================================================================================*/
 		{
                        "vids": [
-						   "user": "plimbus",
+						   {
+				       "user": "plimbus",
 				       "link": "https://www.youtube.com/watch?v=obA3tAMCIMU",
 				       "percent": 43,
-				       "hz": ""	
+				       "hz": ""
+			       },
                        ],
                        "name": "ta1LSD0ll",
                        "author": "Vink",
@@ -3611,6 +3613,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
