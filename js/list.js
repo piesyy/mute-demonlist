@@ -1937,6 +1937,19 @@ const d = {
                        "verificationVid": "https://youtu.be/ahPPWpkKEVY?si=Q06DhvKS40NzWyBf"
                 },
         /*=================================================================================*/
+				{
+			"vids": [
+
+                       ],
+                       "name": "Ddiamond",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 74034217,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/CgM0LPQCYT4?si=28SD-by93uzzCpm2"
+                },
+        /*=================================================================================*/
 		{
 			"vids": [
               {
@@ -3582,19 +3595,6 @@ const d = {
                        "verificationVid": "https://youtu.be/XQNcFfgp5iE?si=SWgNYNJwUjBb0ebJ"
                 },
         /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "eternal entropy",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 75766713,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx"
-                },
-        /*=================================================================================*/
 		
 	],
 	"version": [
@@ -3609,6 +3609,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
