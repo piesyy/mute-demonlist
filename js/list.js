@@ -1704,6 +1704,19 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=51lOAql1Mks"
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+             
+                       ],
+                       "name": "BuZzKiLl",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 93450782,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM"
+                },
+        /*=================================================================================*/
 				{
 			"vids": [
               {
@@ -3582,19 +3595,6 @@ const d = {
                        "verificationVid": "https://youtu.be/obA3tAMCIMU?si=KmH3yCYpNtkcEYLx"
                 },
         /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "i hate you",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 68323859,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=O9Tnh8oE_ds"
-                },
-        /*=================================================================================*/
 		
 	],
 	"version": [
@@ -3609,6 +3609,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
