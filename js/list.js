@@ -553,6 +553,19 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=b8Ay_WbP9kg"
                 },
         /*=================================================================================*/
+		{
+                       "vids": [
+
+                       ],
+                       "name": "Akashic Records",
+                       "author": "plimbus",
+                       "more": "none",
+                       "id": 58150142,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=tivRz6dmR_8"
+                },
+        /*=================================================================================*/
 				{
                        "vids": [
 
@@ -3577,24 +3590,6 @@ const d = {
                        "verificationVid": "https://youtu.be/Y6-iG7Q6Z4A?si=xk5DX69EgrbofLJ2"
                 },
         /*=================================================================================*/
-		{
-			"vids": [
-	              {
-				       "user": "Freddy3",
-				       "link": "https://www.youtube.com/watch?v=JP1ln7Fql3Q",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Shock Therapy",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 57121503,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/XQNcFfgp5iE?si=SWgNYNJwUjBb0ebJ"
-                },
-        /*=================================================================================*/
 		
 	],
 	"version": [
@@ -3609,6 +3604,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
