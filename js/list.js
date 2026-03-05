@@ -292,6 +292,19 @@ const d = {
                        "verificationVid": "https://youtu.be/9F7Z6vqOzHk?si=VkE3oUZSMwAme9cA"
                 },
         /*=================================================================================*/
+			{
+                       "vids": [
+              
+                       ],
+                       "name": "IRIS",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 123853954,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/C0prl4y2ZsA"
+                },
+        /*=================================================================================*/
 	{
                        "vids": [
               
@@ -3583,19 +3596,6 @@ const d = {
                        "verificationVid": "https://youtu.be/NW0XaM3n7y8?si=FN_dKxJz0QZjCMCZ"
                 },
         /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "Betrayal of Destiny",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 63482186,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/Y6-iG7Q6Z4A?si=xk5DX69EgrbofLJ2"
-                },
-        /*=================================================================================*/
 		
 	],
 	"version": [
@@ -3610,6 +3610,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
