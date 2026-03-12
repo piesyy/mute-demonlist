@@ -240,7 +240,7 @@ const d = {
               {
 				       "user": "Vink",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 93,
+				       "percent": 100,
 				       "hz": ""
 			       },
                        ],
@@ -3615,6 +3615,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
