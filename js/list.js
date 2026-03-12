@@ -166,6 +166,24 @@ const d = {
                        "verificationVid": "https://youtu.be/Gt0d8GZDZpg?si=kLFn40kkqj4aSY1Q"
                 },
         /*=================================================================================*/
+		 {
+                       "vids": [
+              {
+				       "user": "Vink",
+				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Critical Heat",
+                       "author": "piesy",
+                       "more": "none",
+                       "id": 88442157,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://www.youtube.com/watch?v=DqvjjIRlSus"
+                },
+        /*=================================================================================*/
 			{
                        "vids": [
               
@@ -233,24 +251,6 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Pl6SfHXDh9A"
-                },
-        /*=================================================================================*/
-        {
-                       "vids": [
-              {
-				       "user": "Vink",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 100,
-				       "hz": ""
-			       },
-                       ],
-                       "name": "Critical Heat",
-                       "author": "piesy",
-                       "more": "none",
-                       "id": 88442157,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=DqvjjIRlSus"
                 },
         /*=================================================================================*/
 		{
@@ -3615,6 +3615,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
