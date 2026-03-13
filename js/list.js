@@ -638,7 +638,7 @@ const d = {
                        "id": 82172844,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=47olgNT_NJI&pp=0gcJCU0KAYcqIYzv"
+                       "verificationVid": "https://www.youtube.com/watch?v=47olgNT_NJI"
                 },
         /*=================================================================================*/
 	{
@@ -3615,6 +3615,7 @@ d.list.forEach((item, index) => {
 });
 
 const list = d.list;const version = d.version;
+
 
 
 
