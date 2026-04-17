@@ -3630,7 +3630,7 @@ const d = {
                        "id": 38765979,
                        "pass": "",
                        "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/NW0XaM3n7y8?si=FN_dKxJz0QZjCMCZ"
+                       "verificationVid": "https://www.youtube.com/watch?v=Z63RGRI6gn4"
                 },
         /*=================================================================================*/
 		
