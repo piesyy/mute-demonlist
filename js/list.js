@@ -3601,6 +3601,43 @@ const d = {
                        "verificationVid": "https://youtu.be/NW0XaM3n7y8?si=FN_dKxJz0QZjCMCZ"
                 },
         /*=================================================================================*/
+		{
+			"vids": [
+	              
+					  {
+				       "user": "piesy",
+				       "link": "https://www.youtube.com/watch?v=UhG1xVe1_uQ",
+				       "percent": 100,
+				       "hz": ""
+			       },
+					  {
+				       "user": "plimbus",
+				       "link": "https://www.youtube.com/watch?v=93M5HmDDzv8",
+				       "percent": 100,
+				       "hz": ""
+			       },
+					 {
+				       "user": "stonerchick",
+				       "link": "https://www.youtube.com/watch?v=TpMNYnJPy-A",
+				       "percent": 100,
+				       "hz": ""
+			       },
+					{
+				       "user": "Vink",
+				       "link": "https://www.youtube.com/watch?v=fcu4B61xnEM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+                       ],
+                       "name": "Cataclysm",
+                       "author": "KartzTW",
+                       "more": "none",
+                       "id": 38765979,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/NW0XaM3n7y8?si=FN_dKxJz0QZjCMCZ"
+                },
+        /*=================================================================================*/
 		
 	],
 	"version": [
