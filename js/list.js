@@ -3203,12 +3203,7 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-	              {
-				       "user": "p0isoned",
-				       "link": "https://www.youtube.com/watch?v=Ly6Yi4LcOSA",
-				       "percent": 80,
-				       "hz": ""
-			       },
+	            
                        ],
                        "name": "BuTiTi III",
                        "author": "Freddy3",
