@@ -169,7 +169,7 @@
 
         var baseScore = (200 / Math.sqrt(((rank - 1) / 149.25) + (4 / 9))) - 50;
 
-        var score = (baseScore * hzpoint) * ((percent - (cutline - 1)) / (201 - (cutline - 1)));
+        var score = (baseScore * hzpoint) * ((percent - (cutline - 1)) / (200 - (cutline - 1)));
         
         if (percent != 100) {
             return roundNumber(score - (score / 3), 3);
