@@ -3013,22 +3013,15 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-	            
-                       ],
-                       "name": "Martin",
-                       "author": "bulbazorio",
-                       "more": "none",
-                       "id": 73056120,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM"
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
 	              {
 				       "user": "plimbus",
 				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
+				       "percent": 100,
+				       "hz": ""
+			       },
+				     {
+				       "user": "bulbazorio",
+				       "link": "https://youtu.be/f8MdUrdrHoc",
 				       "percent": 100,
 				       "hz": ""
 			       },
@@ -3040,6 +3033,19 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=-A_siTSibqM"
+                },
+        /*=================================================================================*/
+		{
+			"vids": [
+	            
+                       ],
+                       "name": "Martin",
+                       "author": "bulbazorio",
+                       "more": "none",
+                       "id": 73056120,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM"
                 },
         /*=================================================================================*/
 		{
