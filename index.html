@@ -123,8 +123,6 @@
         return 50;
     } else if (rank === 201) {
         return 50;
-    } else if (rank > 200) {
-        return 100;
     } else {
         let points = (200 / Math.sqrt(((rank - 1) / 149.25) + (4 / 9))) - 50;
         return roundNumber(points, 3);
