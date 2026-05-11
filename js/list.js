@@ -210,19 +210,6 @@ const d = {
                        "verificationVid": "https://www.youtube.com/watch?v=zBhDazSr9gw"
                 },
         /*=================================================================================*/
-		{
-                       "vids": [
-              
-                       ],
-                       "name": "DISSONANCE",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 108141323,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/Jov3rFQj-5A?si=HvgeIsDA13yy9MxV"
-                },
-        /*=================================================================================*/
 	{
                        "vids": [
               {
@@ -252,6 +239,19 @@ const d = {
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=Pl6SfHXDh9A"
                 },
+		 /*=================================================================================*/
+		{
+                       "vids": [
+              
+                       ],
+                       "name": "DISSONANCE",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 108141323,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/Jov3rFQj-5A?si=HvgeIsDA13yy9MxV"
+                },
         /*=================================================================================*/
 		{
                        "vids": [
@@ -264,6 +264,19 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://www.youtube.com/watch?v=4TQj5yKPT6w"
+                },
+		 /*=================================================================================*/
+			{
+                       "vids": [
+              
+                       ],
+                       "name": "Widestep",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 95767653,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/9F7Z6vqOzHk?si=VkE3oUZSMwAme9cA"
                 },
         /*=================================================================================*/
 		{
@@ -283,19 +296,6 @@ const d = {
                        "vids": [
               
                        ],
-                       "name": "Widestep",
-                       "author": "Vink",
-                       "more": "none",
-                       "id": 95767653,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://youtu.be/9F7Z6vqOzHk?si=VkE3oUZSMwAme9cA"
-                },
-        /*=================================================================================*/
-			{
-                       "vids": [
-              
-                       ],
                        "name": "IRIS",
                        "author": "Vink",
                        "more": "none",
@@ -303,6 +303,19 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/C0prl4y2ZsA"
+                },
+        /*=================================================================================*/
+		{
+                       "vids": [
+              
+                       ],
+                       "name": "Judgement Knights",
+                       "author": "Vink",
+                       "more": "none",
+                       "id": 113905783,
+                       "pass": "",
+                       "percentToQualify": 1,
+                       "verificationVid": "https://youtu.be/JICTkpHPU4E?si=r627GW86n_bFE-Ge"
                 },
         /*=================================================================================*/
 	{
@@ -1203,7 +1216,7 @@ const d = {
                        "vids": [
 
                        ],
-                       "name": "Ourwa 676767676767",
+                       "name": "Ourwa",
                        "author": "Vink",
                        "more": "none",
                        "id": 61598653,
@@ -1240,9 +1253,14 @@ const d = {
         /*=================================================================================*/
 	{
                        "vids": [
-
+						    {
+				       "user": "Vink",
+				       "link": "https://youtu.be/8B979IWE6w4?si=sWCVhb6g1_ZKLLr_",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
-                       "name": "AKIRA (WEED NUMBER LOL)",
+                       "name": "AKIRA",
                        "author": "bulbazorio",
                        "more": "none",
                        "id": 88421468,
@@ -1806,19 +1824,6 @@ const d = {
                        "pass": "",
                        "percentToQualify": 1,
                        "verificationVid": "https://youtu.be/rWtc8DqQbe4?si=0aPwwJ1GTNk2rFBB"
-                },
-        /*=================================================================================*/
-		{
-			"vids": [
-
-                       ],
-                       "name": "MISFIRE",
-                       "author": "plimbus",
-                       "more": "none",
-                       "id": 88244926,
-                       "pass": "",
-                       "percentToQualify": 1,
-                       "verificationVid": "https://www.youtube.com/watch?v=obA3tAMCIMU"
                 },
         /*=================================================================================*/
 		{
@@ -2728,6 +2733,12 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
+				{
+				       "user": "Vink",
+				       "link": "https://youtu.be/a2pQqtW5Tpw?si=QqTIQRutFY2OechM",
+				       "percent": 100,
+				       "hz": ""
+			       },
 	              {
 				       "user": "JT",
 				       "link": "https://www.youtube.com/watch?v=CT84uKtqhYo",
@@ -3345,7 +3356,12 @@ const d = {
         /*=================================================================================*/
 		{
 			"vids": [
-
+				{
+				       "user": "Vink",
+				       "link": "https://youtu.be/PvEKqjf6M-Y?si=3sRVgE39cHNwKQXO",
+				       "percent": 100,
+				       "hz": ""
+			       },
                        ],
                        "name": "2 1 1",
                        "author": "plimbus",
