@@ -68,8 +68,8 @@ const d = {
 				},
               {
 				       "user": "Vink",
-				       "link": "https://youtu.be/obA3tAMCIMU?si=mylh-55fP9bhM",
-				       "percent": 53,
+				       "link": "https://youtu.be/i_GsoJNBB4Q?si=G4EbWACz64OF0417",
+				       "percent": 100,
 				       "hz": ""
 				},
 			           {
@@ -1966,6 +1966,12 @@ const d = {
 		{
 				       "user": "bulbazorio",
 				       "link": "https://youtu.be/t0u0JN8mDVk?si=3mDx40Al6tpG7B4a",
+				       "percent": 100,
+				       "hz": ""
+			       },
+						{
+				       "user": "Vink",
+				       "link": "https://youtu.be/Lt-9OGvCEXA?si=UvAVDjIJXNfA269e",
 				       "percent": 100,
 				       "hz": ""
 			       },
